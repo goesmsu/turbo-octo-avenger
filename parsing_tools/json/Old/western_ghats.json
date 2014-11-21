@@ -1,0 +1,1264 @@
+[
+{
+    "pk": 14,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium cumini (small wood)",
+        "string": "1720.1630(dbh/100)^2 - 423.8031(dbh/100) + 49.9381",
+        "region": 4,
+        "species": 19,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 15,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium cumini (foliage)",
+        "string": "30.1113(dbh/100)^3 + 47.5624(dbh/100)^2 - 12.5773(dbh/100) + 2.7618",
+        "region": 4,
+        "species": 19,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 16,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium cumini (small wood)",
+        "string": "0.4284 (dbh)^2 - 1.4660(dbh) + 2.4189",
+        "region": 4,
+        "species": 19,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 17,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium cumini (foliage)",
+        "string": "0.0222(dbh)^2 - 0.0127(dbh) + 0.0632",
+        "region": 4,
+        "species": 19,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 18,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium jambolanum (small wood)",
+        "string": "1720.1630(dbh/100)^2 - 423.8031(dbh/100) + 49.9381",
+        "region": 4,
+        "species": 20,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 19,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium jambolanum (foliage)",
+        "string": "30.1113(dbh/100)^3 + 47.5624(dbh/100)^2 - 12.5773(dbh/100) + 2.7618",
+        "region": 4,
+        "species": 20,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 20,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium jambolanum (small wood)",
+        "string": "0.4284 (dbh)^2 - 1.4660(dbh) + 2.4189",
+        "region": 4,
+        "species": 20,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 21,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium jambolanum (foliage)",
+        "string": "0.0222(dbh)^2 - 0.0127(dbh) + 0.0632",
+        "region": 4,
+        "species": 20,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 22,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Eugenia jambolana (small wood)",
+        "string": "1720.1630(dbh/100)^2 - 423.8031(dbh/100) + 49.9381",
+        "region": 4,
+        "species": 21,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 23,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Eugenia jambolana (foliage)",
+        "string": "30.1113(dbh/100)^3 + 47.5624(dbh/100)^2 - 12.5773(dbh/100) + 2.7618",
+        "region": 4,
+        "species": 21,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 24,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Eugenia jambolana (small wood)",
+        "string": "0.4284 (dbh)^2 - 1.4660(dbh) + 2.4189",
+        "region": 4,
+        "species": 21,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 25,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Eugenia jambolana (foliage)",
+        "string": "0.0222(dbh)^2 - 0.0127(dbh) + 0.0632",
+        "region": 4,
+        "species": 21,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 26,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Schleichera trijuga (small wood)",
+        "string": "-23.7715(dbh/100)^2 + 374.0009(dbh/100) - 11.3382",
+        "region": 4,
+        "species": 17,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 27,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Schleichera trijuga (foliage)",
+        "string": "13.2675(dbh/100)^2 + 10.6145(dbh/100) + 0.7554",
+        "region": 4,
+        "species": 17,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 28,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Schleichera trijuga (small wood)",
+        "string": "0.5121(dbh)^2 - 1.2087(dbh) + 1.9627",
+        "region": 4,
+        "species": 17,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 29,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Schleichera trijuga (foliage)",
+        "string": "0.0058(dbh)^2 + 0.1484(dbh) + 0.0070",
+        "region": 4,
+        "species": 17,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 30,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Schleichera oleosa (small wood)",
+        "string": "-23.7715(dbh/100)^2 + 374.0009(dbh/100) - 11.3382",
+        "region": 4,
+        "species": 18,
+        "less_than_ten": false
+    }
+},
+{
+    "pk": 31,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Schleichera oleosa (foliage)",
+        "string": "13.2675(dbh/100)^2 + 10.6145(dbh/100) + 0.7554",
+        "region": 4,
+        "species": 18,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 32,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Schleichera oleosa (small wood)",
+        "string": "0.5121(dbh)^2 - 1.2087(dbh) + 1.9627",
+        "region": 4,
+        "species": 18,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 33,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Schleichera oleosa (foliage)",
+        "string": "0.0058(dbh)^2 + 0.1484(dbh) + 0.0070",
+        "region": 4,
+        "species": 18,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 34,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Myristica malabarica (small wood)",
+        "string": "368.3320(dbh/100)^2 + 159.3366(dbh/100) + 7.8771",
+        "region": 4,
+        "species": 13,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 35,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Myristica malabarica (foliage)",
+        "string": "16.2036(dbh/100)^2 + 5.4228(dbh/100) + 1.5594",
+        "region": 4,
+        "species": 13,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 36,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Myristica malabarica (small wood)",
+        "string": "0.3164(dbh)^2 + 0.3275(dbh) + 0.2305",
+        "region": 4,
+        "species": 13,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 37,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Myristica malabarica (foliage)",
+        "string": "0.0340(dbh)^2 - 0.1066(dbh) + 0.2631",
+        "region": 4,
+        "species": 13,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 38,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Artocarpus heterophyllus (small wood)",
+        "string": "-187.2610(dbh/100)^2  + 496.1925(dbh/100) - 31.2311",
+        "region": 4,
+        "species": 6,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 39,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Artocarpus heterophyllus (foliage)",
+        "string": "-4.7945(dbh/100)^2 + 26.9481(dbh/100) - 1.5618",
+        "region": 4,
+        "species": 6,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 40,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Artocarpus heterophyllus (small wood)",
+        "string": "0.3121(dbh)^2 - 0.7693(dbh) + 1.1439",
+        "region": 4,
+        "species": 6,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 41,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Artocarpus heterophyllus (foliage)",
+        "string": "0.0197(dbh)^2 - 0.0557(dbh) + 0.1090",
+        "region": 4,
+        "species": 6,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 42,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Artocarpus integrifolia (small wood)",
+        "string": "-187.2610(dbh/100)^2  + 496.1925(dbh/100) - 31.2311",
+        "region": 4,
+        "species": 7,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 43,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Artocarpus integrifolia (foliage)",
+        "string": "-4.7945(dbh/100)^2 + 26.9481(dbh/100) - 1.5618",
+        "region": 4,
+        "species": 7,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 44,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Artocarpus integrifolia (small wood)",
+        "string": "0.3121(dbh)^2 - 0.7693(dbh) + 1.1439",
+        "region": 4,
+        "species": 7,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 45,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Artocarpus integrifolia (foliage)",
+        "string": "0.0197(dbh)^2 - 0.0557(dbh) + 0.1090",
+        "region": 4,
+        "species": 7,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 46,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Pinus patula (small wood)",
+        "string": "593.5119(dbh/100)^2 + 67.7435(dbh/100) + 6.1820",
+        "region": 4,
+        "species": 16,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 47,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Pinus patula (foliage)",
+        "string": "91.3057(dbh/100)^2 - 13.2752(dbh/100) + 2.3799",
+        "region": 4,
+        "species": 16,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 48,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Pinus patula (small wood)",
+        "string": "0.3316(dbh)^2 + 0.5356(dbh) - 0.2299",
+        "region": 4,
+        "species": 16,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 49,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Pinus patula (foliage)",
+        "string": "0.0117(dbh)^2 + 0.1553(dbh) - 0.0117",
+        "region": 4,
+        "species": 16,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 50,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia lanceolata (small wood)",
+        "string": "-123.7223(dbh/100)^2 + 290.7752(dbh/100) - 13.5650",
+        "region": 4,
+        "species": 10,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 51,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia lanceolata (foliage)",
+        "string": "-2.7947(dbh/100)^2 + 7.1714(dbh/100) - 0.3286",
+        "region": 4,
+        "species": 10,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 52,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia lanceolata (small wood)",
+        "string": "0.2400(dbh)^2 - 0.1514(dbh) + 0.7339",
+        "region": 4,
+        "species": 10,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 53,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia lanceolata (foliage)",
+        "string": "0.0041(dbh)^2 -0.0095(dbh) + 0.0495",
+        "region": 4,
+        "species": 10,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 54,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia inicrocarpa (small wood)",
+        "string": "-123.7223(dbh/100)^2 + 290.7752(dbh/100) - 13.5650",
+        "region": 4,
+        "species": 11,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 55,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia inicrocarpa (foliage)",
+        "string": "-2.7947(dbh/100)^2 + 7.1714(dbh/100) - 0.3286",
+        "region": 4,
+        "species": 11,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 56,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia inicrocarpa (small wood)",
+        "string": "0.2400(dbh)^2 - 0.1514(dbh) + 0.7339",
+        "region": 4,
+        "species": 11,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 57,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia inicrocarpa (foliage)",
+        "string": "0.0041(dbh)^2 -0.0095(dbh) + 0.0495",
+        "region": 4,
+        "species": 11,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+]
+
+[
+{
+    "pk": 58,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Tectona grandis (small wood)",
+        "string": "(426.4085(dbh/100)^2 - 65.3303(dbh/100) + 30.9354)",
+        "region": 4,
+        "species": 22,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 59,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Tectona grandis (foliage)",
+        "string": "4.0598(dbh/100)^2 + 1.0953(dbh/100) + 0.3664",
+        "region": 4,
+        "species": 22,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 60,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Tectona grandis (small wood)",
+        "string": "0.3533(dbh)^2 + 0.1121(dbh) - 0.3794",
+        "region": 4,
+        "species": 22,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 61,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Tectona grandis (foliage)",
+        "string": "0.0015(dbh)^2 + 0.0013(dbh) + 0.0066",
+        "region": 4,
+        "species": 22,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 62,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Anogeissus latifolia (small wood)",
+        "string": "1983.9425(dbh/100)^3 - 1588.1130(dbh/100)^2 + 533.6300(dbh/100) - 23.3952",
+        "region": 4,
+        "species": 4,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 63,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Anogeissus latifolia (foliage)",
+        "string": "6.6210(dbh/100)^2 - 1.2689(dbh/100) + 0.4737",
+        "region": 4,
+        "species": 4,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 64,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Anogeissus latifolia (small wood)",
+        "string": "0.3349(dbh)^2 - 0.3465(dbh) + 1.9953",
+        "region": 4,
+        "species": 4,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 65,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Anogeissus latifolia (foliage)",
+        "string": "0.0012(dbh)^2 + 0.0045(dbh) + 0.0504",
+        "region": 4,
+        "species": 4,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 66,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia crenulata (small wood)",
+        "string": "1815.5165(dbh/100)^3 - 1348.7147(dbh/100)^2 + 594.0835(dbh/100) - 29.0793",
+        "region": 4,
+        "species": 23,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 67,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia crenulata (foliage)",
+        "string": "44.8486(dbh/100)^2 - 8.7590(dbh/100) + 1.2305",
+        "region": 4,
+        "species": 23,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 68,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia crenulata (small wood)",
+        "string": "0.4186(dbh)^2 - 1.3886(dbh) + 2.4775",
+        "region": 4,
+        "species": 23,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 69,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia crenulata (foliage)",
+        "string": "0.0105(dbh)^2 - 0.0363(dbh) + 0.1030",
+        "region": 4,
+        "species": 23,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 70,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia tomentosa (small wood)",
+        "string": "1815.5165(dbh/100)^3 - 1348.7147(dbh/100)^2 + 594.0835(dbh/100) - 29.0793",
+        "region": 4,
+        "species": 24,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 71,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia tomentosa (foliage)",
+        "string": "44.8486(dbh/100)^2 - 8.7590(dbh/100) + 1.2305",
+        "region": 4,
+        "species": 24,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 72,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia tomentosa (small wood)",
+        "string": "0.4186(dbh)^2 - 1.3886(dbh) + 2.4775",
+        "region": 4,
+        "species": 24,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 73,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia tomentosa (foliage)",
+        "string": "0.0105(dbh)^2 - 0.0363(dbh) + 0.1030",
+        "region": 4,
+        "species": 24,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 74,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Holarrhena antidysenterica (small wood)",
+        "string": "140.3103(dbh/100)^2 + 199.3693(dbh/100) - 8.2801",
+        "region": 4,
+        "species": 9,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 75,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Holarrhena antidysenterica (foliage)",
+        "string": "6.6914(dbh/100)^2 + 11.6819(dbh/100) - 0.7106",
+        "region": 4,
+        "species": 9,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 76,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Holarrhena antidysenterica (small wood)",
+        "string": "0.1875(dbh)^2 + 0.4663(dbh) + 1.2023",
+        "region": 4,
+        "species": 9,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 77,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Holarrhena antidysenterica (foliage)",
+        "string": "0.0656(dbh) - 0.0051",
+        "region": 4,
+        "species": 9,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 78,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia paniculata (small wood)",
+        "string": "362.5509(dbh/100)^2  + 278.3135(dbh/100) -17.7837",
+        "region": 4,
+        "species": 25,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 79,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia paniculata (foliage)",
+        "string": "8.1731(dbh/100)^2 + 10.4816(dbh/100) - 0.7031",
+        "region": 4,
+        "species": 25,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 80,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia paniculata (small wood)",
+        "string": "0.2724(dbh)^2 - 0.0125(dbh) - 0.0558",
+        "region": 4,
+        "species": 25,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 81,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia paniculata (foliage)",
+        "string": "0.0064(dbh)^2 - 0.0052(dbh) + 0.0306",
+        "region": 4,
+        "species": 25,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 82,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Macaranga peltata (small wood)",
+        "string": "-351.6206(dbh/100)^2 + 698.1528(dbh/100) - 49.8923",
+        "region": 4,
+        "species": 12,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 83,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Macaranga peltata (foliage)",
+        "string": "-17.3870(dbh/100)^2 + 43.6160(dbh/100) - 3.0387",
+        "region": 4,
+        "species": 12,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 84,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Macaranga peltata (small wood)",
+        "string": "0.2502(dbh)^2 + 0.1864(dbh) - 0.4365",
+        "region": 4,
+        "species": 12,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 85,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Macaranga peltata (foliage)",
+        "string": "0.0208(dbh)^2 - 0.0584(dbh) + 0.0589",
+        "region": 4,
+        "species": 12,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 86,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Olea dioica (small wood)",
+        "string": "362.7717(dbh/100)^2 + 210.9870(dbh/100) - 12.1988",
+        "region": 4,
+        "species": 14,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 87,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Olea dioica (foliage)",
+        "string": "23.3807(dbh/100)^2 + 3.2779(dbh/100) + 0.2784",
+        "region": 4,
+        "species": 14,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 88,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Olea dioica (small wood)",
+        "string": "0.1892(dbh)^2 + 0.4478(dbh) - 0.0970",
+        "region": 4,
+        "species": 14,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 89,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Olea dioica (foliage)",
+        "string": "0.0037(dbh)^2 + 0.0383(dbh) + 0.0399",
+        "region": 4,
+        "species": 14,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 90,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Aporosa lindleyana (small wood)",
+        "string": "530.3446(dbh/100)^2 - 110.2824(dbh/100) + 24.3668",
+        "region": 4,
+        "species": 5,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 91,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Aporosa lindleyana (foliage)",
+        "string": "35.9394(dbh/100)^2 - 2.9608(dbh/100) + 0.8623",
+        "region": 4,
+        "species": 5,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 92,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Aporosa lindleyana (small wood)",
+        "string": "0.2798(dbh)^2 + 0.0430(dbh) + 0.0606",
+        "region": 4,
+        "species": 5,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 93,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Aporosa lindleyana (foliage)",
+        "string": "0.0107(dbh)^2 + 0.0178(dbh) - 0.0003",
+        "region": 4,
+        "species": 5,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 94,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Palaquim ellipticum (small wood)",
+        "string": "775.1896(dbh/100)^2 + 125.0958(dbh/100) - 6.8587",
+        "region": 4,
+        "species": 15,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 95,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Palaquim ellipticum (foliage)",
+        "string": "110.1075(dbh/100)^2 - 30.0260(dbh/100) + 2.9517",
+        "region": 4,
+        "species": 15,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 96,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Palaquim ellipticum (small wood)",
+        "string": "0.0466(dbh)^3 -0.3060(dbh)^2 + 1.4217(dbh) - 0.3071",
+        "region": 4,
+        "species": 15,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 97,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Palaquim ellipticum (foliage)",
+        "string": "0.0020(dbh)^3 -0.0205(dbh)^2 + 0.0923(dbh) + 0.0019",
+        "region": 4,
+        "species": 15,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 98,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Xylia xylocarpus (small wood)",
+        "string": "568.7019(dbh/100)^2 -55.8345(dbh/100) + 21.9233",
+        "region": 4,
+        "species": 26,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 99,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Xylia xylocarpus (foliage)",
+        "string": "41.5004(dbh/100)^2 -8.6750(dbh/100) + 1.3020",
+        "region": 4,
+        "species": 26,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 100,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Xylia xylocarpus (small wood)",
+        "string": "0.2545(dbh)^2 + 0.2466(dbh) + 0.0771",
+        "region": 4,
+        "species": 26,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 101,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Xylia xylocarpus (foliage)",
+        "string": "0.0093(dbh)^2 - 0.0287(dbh) + 0.0676",
+        "region": 4,
+        "species": 26,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 102,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acrocarpus fraxinifolius (small wood)",
+        "string": "461.9579(dbh/100)^2 - 2.3924(dbh/100) + 13.4012",
+        "region": 4,
+        "species": 3,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 103,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acrocarpus fraxinifolius (foliage)",
+        "string": "6.3026(dbh/100)^2 + 7.7195(dbh/100) + 0.1565",
+        "region": 4,
+        "species": 3,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+]

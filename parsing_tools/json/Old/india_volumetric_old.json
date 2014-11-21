@@ -1,0 +1,4331 @@
+[
+{
+    "pk": 236,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Abies densa",
+        "string": "9.364041 (dbh/100)^2 - 0.515959 (dbh/100) + 0.007107",
+        "region": 14,
+        "species": 54,
+        "volumetric": true
+    }
+},
+{
+    "pk": 237,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Abies pindrow",
+        "string": "15.922114 (dbh/100)^2 - 3.441808 (dbh/100) + 0.293884",
+        "region": 14,
+        "species": 55,
+        "volumetric": true
+    }
+},
+{
+    "pk": 238,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Abies smithiana",
+        "string": "-13.086392 (dbh/100)^(3/2) + 21.053415 (dbh/100)^2 + 3.873510 (dbh/100) - 0.571838 sqrt(dbh/100) +  0.040200",
+        "region": 14,
+        "species": 56,
+        "volumetric": true
+    }
+},
+{
+    "pk": 239,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acacia catechu",
+        "string": "7.468880 (dbh/100)^2 - 0.721610 (dbh/100) + 0.023840",
+        "region": 14,
+        "species": 42,
+        "volumetric": true
+    }
+},
+{
+    "pk": 240,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acer species",
+        "string": "9.256806 (dbh/100)^2 - 0.660283 (dbh/100) + 0.011774",
+        "region": 14,
+        "species": 62,
+        "volumetric": true
+    }
+},
+{
+    "pk": 241,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lyonia ovalifolia",
+        "string": "4.722820 (dbh/100)^2 - 0.568780 (dbh/100) + 0.034680",
+        "region": 14,
+        "species": 105,
+        "volumetric": true
+    }
+},
+{
+    "pk": 242,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Pieris ovalifolia",
+        "string": "4.722820 (dbh/100)^2 - 0.568780 (dbh/100) + 0.034680",
+        "region": 14,
+        "species": 116,
+        "volumetric": true
+    }
+},
+{
+    "pk": 243,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Mallotus philippensis",
+        "string": "19.619770 (dbh/100)^2 - 2.875030 (dbh/100) + 0.147490",
+        "region": 14,
+        "species": 109,
+        "volumetric": true
+    }
+},
+{
+    "pk": 244,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Pinus excelsa",
+        "string": "12.631292 (dbh/100)^2 + 0.213315",
+        "region": 14,
+        "species": 117,
+        "volumetric": true
+    }
+},
+{
+    "pk": 245,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Pinus wallichiana",
+        "string": "12.631292 (dbh/100)^2 + 0.213315",
+        "region": 14,
+        "species": 120,
+        "volumetric": true
+    }
+},
+{
+    "pk": 246,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Pinus roxburghii",
+        "string": "-8.167109 (dbh/100)^(3/2) + 15.887399 (dbh/100)^2 + 1.458633 (dbh/100) - 0.105134 sqrt(dbh/100) +  0.002633",
+        "region": 14,
+        "species": 119,
+        "volumetric": true
+    }
+},
+{
+    "pk": 247,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Pinus longifolia",
+        "string": "-8.167109 (dbh/100)^(3/2) + 15.887399 (dbh/100)^2 + 1.458633 (dbh/100) - 0.105134 sqrt(dbh/100) +  0.002633",
+        "region": 14,
+        "species": 118,
+        "volumetric": true
+    }
+},
+{
+    "pk": 248,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Quercus dilatata",
+        "string": "10.163100 (dbh/100)^2 - 1.554700 (dbh/100) + 0.098800",
+        "region": 14,
+        "species": 124,
+        "volumetric": true
+    }
+},
+{
+    "pk": 249,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Quercus floribunda",
+        "string": "10.163100 (dbh/100)^2 - 1.554700 (dbh/100) + 0.098800",
+        "region": 14,
+        "species": 125,
+        "volumetric": true
+    }
+},
+{
+    "pk": 250,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Quercus incana",
+        "string": "-10.654325 (dbh/100)^(3/2) + 14.592927 (dbh/100)^2 + 3.779519 (dbh/100) - 0.669807 sqrt(dbh/100) +  0.057675",
+        "region": 14,
+        "species": 126,
+        "volumetric": true
+    }
+},
+{
+    "pk": 251,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Quercus semecarpifolia",
+        "string": "10.163100 (dbh/100)^2 - 1.554700 (dbh/100) + 0.098800",
+        "region": 14,
+        "species": 127,
+        "volumetric": true
+    }
+},
+{
+    "pk": 252,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Rhododendron arboreum",
+        "string": "3.634280 (dbh/100)^2 - 0.218740 sqrt(dbh/100) + 0.060070",
+        "region": 14,
+        "species": 130,
+        "volumetric": true
+    }
+},
+{
+    "pk": 253,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Shorea robusta",
+        "string": "11.756300 (dbh/100)^2 - 2.707000 (dbh/100) + 0.191900",
+        "region": 14,
+        "species": 138,
+        "volumetric": true
+    }
+},
+{
+    "pk": 254,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Taxus baccata",
+        "string": "6.362390 (dbh/100)^2 - 0.842660 (dbh/100) + 0.044300",
+        "region": 14,
+        "species": 144,
+        "volumetric": true
+    }
+},
+{
+    "pk": 255,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Tectona grandis",
+        "string": "7.881000 (dbh/100)^2 - 0.656230 (dbh/100) + 0.003410",
+        "region": 14,
+        "species": 22,
+        "volumetric": true
+    }
+},
+{
+    "pk": 256,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Alnus nepalensis",
+        "string": "0.001559 (dbh/100)^2 - 0.020390 (dbh/100) + 0.066740",
+        "region": 13,
+        "species": 66,
+        "volumetric": true
+    }
+},
+{
+    "pk": 257,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Castanopsis indica",
+        "string": "-1.615735 (dbh/100)^(3/2) + 8.983927 (dbh/100)^2 - 0.353513 (dbh/100) + 0.038322 sqrt(dbh/100) +  0.005054",
+        "region": 13,
+        "species": 79,
+        "volumetric": true
+    }
+},
+{
+    "pk": 258,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Castanopsis species",
+        "string": "6.525330 (dbh/100)^2 - 0.870980 (dbh/100) + 0.053310",
+        "region": 13,
+        "species": 80,
+        "volumetric": true
+    }
+},
+{
+    "pk": 259,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Cinnamomum species",
+        "string": "6.097000 (dbh/100)^2 - 0.886660 (dbh/100) + 0.109700",
+        "region": 13,
+        "species": 82,
+        "volumetric": true
+    }
+},
+{
+    "pk": 260,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Ficus species",
+        "string": "-6.675827 (dbh/100)^(3/2) + 15.633246 (dbh/100)^2 + 0.999664 (dbh/100) - 0.061273 sqrt(dbh/100) +  0.001317",
+        "region": 13,
+        "species": 95,
+        "volumetric": true
+    }
+},
+{
+    "pk": 261,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Macaranga species",
+        "string": "-1.615735 (dbh/100)^(3/2) + 8.983927 (dbh/100)^2 - 0.353513 (dbh/100) + 0.038322 sqrt(dbh/100) +  0.005054",
+        "region": 13,
+        "species": 106,
+        "volumetric": true
+    }
+},
+{
+    "pk": 262,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Machilus species",
+        "string": "4.840090 (dbh/100)^2 - 0.024020",
+        "region": 13,
+        "species": 107,
+        "volumetric": true
+    }
+},
+{
+    "pk": 263,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Michelia species",
+        "string": "17.626190 (dbh/100)^2 - 3.514940 (dbh/100) + 0.230570",
+        "region": 13,
+        "species": 112,
+        "volumetric": true
+    }
+},
+{
+    "pk": 264,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Quercus species",
+        "string": "5.094700 (dbh/100)^2 + 0.005630",
+        "region": 13,
+        "species": 128,
+        "volumetric": true
+    }
+},
+{
+    "pk": 265,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Symplocos theaefolia",
+        "string": "0.000587 (dbh/100)^2 - 0.037540",
+        "region": 13,
+        "species": 143,
+        "volumetric": true
+    }
+},
+{
+    "pk": 266,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia myriocarpa",
+        "string": "0.001065 (dbh/100)^2 - 0.096981",
+        "region": 13,
+        "species": 146,
+        "volumetric": true
+    }
+},
+{
+    "pk": 267,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Albizia species",
+        "string": "-1.615735 (dbh/100)^(3/2) + 8.983927 (dbh/100)^2 - 0.353513 (dbh/100) + 0.038322 sqrt(dbh/100) +  0.005054",
+        "region": 12,
+        "species": 65,
+        "volumetric": true
+    }
+},
+{
+    "pk": 268,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bauhinia species",
+        "string": "-1.615735 (dbh/100)^(3/2) + 8.983927 (dbh/100)^2 - 0.353513 (dbh/100) + 0.038322 sqrt(dbh/100) +  0.005054",
+        "region": 12,
+        "species": 69,
+        "volumetric": true
+    }
+},
+{
+    "pk": 269,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Callicarpa arborea",
+        "string": "5.449703 (dbh/100)^2 - 0.210382 (dbh/100) + 0.002030",
+        "region": 12,
+        "species": 76,
+        "volumetric": true
+    }
+},
+{
+    "pk": 270,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Castanopsis hystrix",
+        "string": "-13.149206 (dbh/100)^(3/2) + 15.941573 (dbh/100)^2 + 5.477625 (dbh/100) - 1.140806 sqrt(dbh/100) +  0.119993",
+        "region": 12,
+        "species": 78,
+        "volumetric": true
+    }
+},
+{
+    "pk": 271,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Castanopsis tribuloides",
+        "string": "-13.149206 (dbh/100)^(3/2) + 15.941573 (dbh/100)^2 + 5.477625 (dbh/100) - 1.140806 sqrt(dbh/100) +  0.119993",
+        "region": 12,
+        "species": 81,
+        "volumetric": true
+    }
+},
+{
+    "pk": 272,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Quercus tribuloides",
+        "string": "-13.149206 (dbh/100)^(3/2) + 15.941573 (dbh/100)^2 + 5.477625 (dbh/100) - 1.140806 sqrt(dbh/100) +  0.119993",
+        "region": 12,
+        "species": 129,
+        "volumetric": true
+    }
+},
+{
+    "pk": 273,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Castanopsis species",
+        "string": "6.525330 (dbh/100)^2 - 0.870980 (dbh/100) + 0.053310",
+        "region": 12,
+        "species": 80,
+        "volumetric": true
+    }
+},
+{
+    "pk": 274,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Cynometra polyandra",
+        "string": "8.250140 (dbh/100)^2 - 1.579760 (dbh/100) + 0.159580",
+        "region": 12,
+        "species": 83,
+        "volumetric": true
+    }
+},
+{
+    "pk": 275,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Dysoxylum binectariferum",
+        "string": "-1.615735 (dbh/100)^(3/2) + 8.983927 (dbh/100)^2 - 0.353513 (dbh/100) + 0.038322 sqrt(dbh/100) +  0.005054",
+        "region": 12,
+        "species": 90,
+        "volumetric": true
+    }
+},
+{
+    "pk": 276,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Eugenia species",
+        "string": "-5.564650 (dbh/100)^2 + 0.929330 (dbh/100) - 0.027920",
+        "region": 12,
+        "species": 94,
+        "volumetric": true
+    }
+},
+{
+    "pk": 277,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Ficus species",
+        "string": "-6.675827 (dbh/100)^(3/2) + 15.633246 (dbh/100)^2 + 0.999664 (dbh/100) - 0.061273 sqrt(dbh/100) +  0.001317",
+        "region": 12,
+        "species": 95,
+        "volumetric": true
+    }
+},
+{
+    "pk": 278,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gmelina arborea",
+        "string": "5.104480 (dbh/100)^2 + 0.212300 (dbh/100) + 0.011560",
+        "region": 12,
+        "species": 99,
+        "volumetric": true
+    }
+},
+{
+    "pk": 279,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Jonesia asoca",
+        "string": "8.250140 (dbh/100)^2 - 1.579760 (dbh/100) + 0.159580",
+        "region": 12,
+        "species": 102,
+        "volumetric": true
+    }
+},
+{
+    "pk": 280,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Saraca asoca",
+        "string": "8.250140 (dbh/100)^2 - 1.579760 (dbh/100) + 0.159580",
+        "region": 12,
+        "species": 134,
+        "volumetric": true
+    }
+},
+{
+    "pk": 281,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Saraca indica",
+        "string": "8.250140 (dbh/100)^2 - 1.579760 (dbh/100) + 0.159580",
+        "region": 12,
+        "species": 135,
+        "volumetric": true
+    }
+},
+{
+    "pk": 282,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Macaranga species",
+        "string": "-1.615735 (dbh/100)^(3/2) + 8.983927 (dbh/100)^2 - 0.353513 (dbh/100) + 0.038322 sqrt(dbh/100) +  0.005054",
+        "region": 12,
+        "species": 106,
+        "volumetric": true
+    }
+},
+{
+    "pk": 283,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Schima wallichii",
+        "string": "-1.615735 (dbh/100)^(3/2) + 8.983927 (dbh/100)^2 - 0.353513 (dbh/100) + 0.038322 sqrt(dbh/100) +  0.005054",
+        "region": 12,
+        "species": 136,
+        "volumetric": true
+    }
+},
+{
+    "pk": 284,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Stereospermum personatum",
+        "string": "-34.110202 (dbh/100)^(3/2) + 35.814719 (dbh/100)^2 + 14.075841 (dbh/100) - 2.835383 sqrt(dbh/100) +  0.247466",
+        "region": 12,
+        "species": 142,
+        "volumetric": true
+    }
+},
+{
+    "pk": 285,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Stereospermum colais",
+        "string": "-34.110202 (dbh/100)^(3/2) + 35.814719 (dbh/100)^2 + 14.075841 (dbh/100) - 2.835383 sqrt(dbh/100) +  0.247466",
+        "region": 12,
+        "species": 141,
+        "volumetric": true
+    }
+},
+{
+    "pk": 286,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Stereospermum chelonoides",
+        "string": "-34.110202 (dbh/100)^(3/2) + 35.814719 (dbh/100)^2 + 14.075841 (dbh/100) - 2.835383 sqrt(dbh/100) +  0.247466",
+        "region": 12,
+        "species": 140,
+        "volumetric": true
+    }
+},
+{
+    "pk": 287,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium cumini",
+        "string": "5.459419 (dbh/100)^2 - 0.276787 (dbh/100) + 0.003508",
+        "region": 12,
+        "species": 19,
+        "volumetric": true
+    }
+},
+{
+    "pk": 288,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium jambolanum",
+        "string": "5.459419 (dbh/100)^2 - 0.276787 (dbh/100) + 0.003508",
+        "region": 12,
+        "species": 20,
+        "volumetric": true
+    }
+},
+{
+    "pk": 289,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Eugenia jambolana",
+        "string": "5.459419 (dbh/100)^2 - 0.276787 (dbh/100) + 0.003508",
+        "region": 12,
+        "species": 21,
+        "volumetric": true
+    }
+},
+{
+    "pk": 290,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Tectona grandis",
+        "string": "-1.615735 (dbh/100)^(3/2) + 8.983927 (dbh/100)^2 - 0.353513 (dbh/100) + 0.038322 sqrt(dbh/100) +  0.005054",
+        "region": 12,
+        "species": 22,
+        "volumetric": true
+    }
+},
+{
+    "pk": 291,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acacia catechu",
+        "string": "-11.602480 (dbh/100)^3 + 17.221270 (dbh/100)^2 - 2.788510 (dbh/100) + 0.166090",
+        "region": 10,
+        "species": 42,
+        "volumetric": true
+    }
+},
+{
+    "pk": 292,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Aegle marmelos",
+        "string": "-11.602480 (dbh/100)^3 + 17.221270 (dbh/100)^2 - 2.788510 (dbh/100) + 0.166090",
+        "region": 10,
+        "species": 51,
+        "volumetric": true
+    }
+},
+{
+    "pk": 293,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bombax ceiba",
+        "string": "15.035760 (dbh/100)^2 - 2.854180 (dbh/100) + 0.185730",
+        "region": 10,
+        "species": 70,
+        "volumetric": true
+    }
+},
+{
+    "pk": 294,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bombax malabaricum",
+        "string": "15.035760 (dbh/100)^2 - 2.854180 (dbh/100) + 0.185730",
+        "region": 10,
+        "species": 72,
+        "volumetric": true
+    }
+},
+{
+    "pk": 295,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Salmalia malabarica",
+        "string": "15.035760 (dbh/100)^2 - 2.854180 (dbh/100) + 0.185730",
+        "region": 10,
+        "species": 132,
+        "volumetric": true
+    }
+},
+{
+    "pk": 296,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bombax insigne",
+        "string": "15.035760 (dbh/100)^2 - 2.854180 (dbh/100) + 0.185730",
+        "region": 10,
+        "species": 71,
+        "volumetric": true
+    }
+},
+{
+    "pk": 297,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea monosperma",
+        "string": "8.733503 (dbh/100)^2 - 1.434833 (dbh/100) + 0.058932",
+        "region": 10,
+        "species": 29,
+        "volumetric": true
+    }
+},
+{
+    "pk": 298,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea frondosa",
+        "string": "8.733503 (dbh/100)^2 - 1.434833 (dbh/100) + 0.058932",
+        "region": 10,
+        "species": 30,
+        "volumetric": true
+    }
+},
+{
+    "pk": 299,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Dalbergia sissoo",
+        "string": "0.000636 (dbh/100)^2 + 0.003310",
+        "region": 10,
+        "species": 86,
+        "volumetric": true
+    }
+},
+{
+    "pk": 300,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Diospyros melanoxylon",
+        "string": "6.110170 (dbh/100)^2 - 0.578532 (dbh/100) + 0.024814",
+        "region": 10,
+        "species": 88,
+        "volumetric": true
+    }
+},
+{
+    "pk": 301,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Diospyros species",
+        "string": "9.778164 (dbh/100)^2 - 1.436090 (dbh/100) + 0.062060",
+        "region": 10,
+        "species": 35,
+        "volumetric": true
+    }
+},
+{
+    "pk": 302,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Ehretia laevis",
+        "string": "-11.602480 (dbh/100)^3 + 17.221270 (dbh/100)^2 - 2.788510 (dbh/100) + 0.166090",
+        "region": 10,
+        "species": 91,
+        "volumetric": true
+    }
+},
+{
+    "pk": 303,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Eucalyptus species",
+        "string": "8.724160 (dbh/100)^2 - 0.892840 (dbh/100) + 0.028940",
+        "region": 10,
+        "species": 93,
+        "volumetric": true
+    }
+},
+{
+    "pk": 304,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Holarrhena antidysenterica",
+        "string": "14.449610 (dbh/100)^2 - 2.787760 (dbh/100) + 0.179940",
+        "region": 10,
+        "species": 9,
+        "volumetric": true
+    }
+},
+{
+    "pk": 305,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia parviflora",
+        "string": "10.295730 (dbh/100)^2 - 1.688290 (dbh/100) + 0.105290",
+        "region": 10,
+        "species": 36,
+        "volumetric": true
+    }
+},
+{
+    "pk": 306,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Mallotus philippensis",
+        "string": "19.619770 (dbh/100)^2 - 2.875030 (dbh/100) + 0.147490",
+        "region": 10,
+        "species": 109,
+        "volumetric": true
+    }
+},
+{
+    "pk": 307,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Shorea robusta",
+        "string": "-15.422563 (dbh/100)^(3/2) + 24.001181 (dbh/100)^2 + 4.075233 (dbh/100) - 0.513319 sqrt(dbh/100) +  0.026589",
+        "region": 10,
+        "species": 138,
+        "volumetric": true
+    }
+},
+{
+    "pk": 308,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium cumini",
+        "string": "12.630470 (dbh/100)^2 - 1.817740 (dbh/100) + 0.084810",
+        "region": 10,
+        "species": 19,
+        "volumetric": true
+    }
+},
+{
+    "pk": 309,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium jambolanum",
+        "string": "12.630470 (dbh/100)^2 - 1.817740 (dbh/100) + 0.084810",
+        "region": 10,
+        "species": 20,
+        "volumetric": true
+    }
+},
+{
+    "pk": 310,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Eugenia jambolana",
+        "string": "12.630470 (dbh/100)^2 - 1.817740 (dbh/100) + 0.084810",
+        "region": 10,
+        "species": 21,
+        "volumetric": true
+    }
+},
+{
+    "pk": 311,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Tectona grandis",
+        "string": "11.989790 (dbh/100)^2 - 1.469360 (dbh/100) + 0.088470",
+        "region": 10,
+        "species": 22,
+        "volumetric": true
+    }
+},
+{
+    "pk": 312,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia crenulata",
+        "string": "18.607990 (dbh/100)^2 - 2.858650 (dbh/100) + 0.181490",
+        "region": 10,
+        "species": 23,
+        "volumetric": true
+    }
+},
+{
+    "pk": 313,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia tomentosa",
+        "string": "18.607990 (dbh/100)^2 - 2.858650 (dbh/100) + 0.181490",
+        "region": 10,
+        "species": 24,
+        "volumetric": true
+    }
+},
+{
+    "pk": 314,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Trewia nudiflora",
+        "string": "-1.747456 (dbh/100)^(3/2) + 0.171611 (dbh/100)^2 + 4.823848 (dbh/100) - 1.911378 sqrt(dbh/100) +  0.205318",
+        "region": 10,
+        "species": 147,
+        "volumetric": true
+    }
+},
+{
+    "pk": 315,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Zizyphus mauritiana",
+        "string": "4.663714 (dbh/100)^2 + 0.027354",
+        "region": 10,
+        "species": 150,
+        "volumetric": true
+    }
+},
+{
+    "pk": 316,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Zizyphus jujuba",
+        "string": "4.663714 (dbh/100)^2 + 0.027354",
+        "region": 10,
+        "species": 149,
+        "volumetric": true
+    }
+},
+{
+    "pk": 317,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Amoora species",
+        "string": "-4.893713 (dbh/100)^(3/2) + 14.173719 (dbh/100)^2 + 0.490552 (dbh/100) - 0.011764 sqrt(dbh/100) +  0.000082",
+        "region": 9,
+        "species": 67,
+        "volumetric": true
+    }
+},
+{
+    "pk": 318,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Aglaia hiernii",
+        "string": "-4.893713 (dbh/100)^(3/2) + 14.173719 (dbh/100)^2 + 0.490552 (dbh/100) - 0.011764 sqrt(dbh/100) +  0.000082",
+        "region": 9,
+        "species": 63,
+        "volumetric": true
+    }
+},
+{
+    "pk": 319,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Amoora wallichii",
+        "string": "-4.893713 (dbh/100)^(3/2) + 14.173719 (dbh/100)^2 + 0.490552 (dbh/100) - 0.011764 sqrt(dbh/100) +  0.000082",
+        "region": 9,
+        "species": 68,
+        "volumetric": true
+    }
+},
+{
+    "pk": 320,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Careya arborea",
+        "string": "-1.615735 (dbh/100)^(3/2) + 8.983927 (dbh/100)^2 - 0.353513 (dbh/100) + 0.038322 sqrt(dbh/100) +  0.005054",
+        "region": 9,
+        "species": 77,
+        "volumetric": true
+    }
+},
+{
+    "pk": 321,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Castanopsis species",
+        "string": "6.525330 (dbh/100)^2 - 0.870980 (dbh/100) + 0.053310",
+        "region": 9,
+        "species": 80,
+        "volumetric": true
+    }
+},
+{
+    "pk": 322,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Dillenia pentagyna",
+        "string": "-17.507961 (dbh/100)^(3/2) + 22.649509 (dbh/100)^2 + 6.353292 (dbh/100) - 1.147859 sqrt(dbh/100) +  0.097356",
+        "region": 9,
+        "species": 87,
+        "volumetric": true
+    }
+},
+{
+    "pk": 323,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia parviflora",
+        "string": "9.764640 (dbh/100)^2 - 1.589410 (dbh/100) + 0.117400",
+        "region": 9,
+        "species": 36,
+        "volumetric": true
+    }
+},
+{
+    "pk": 324,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia speciosa",
+        "string": "9.764640 (dbh/100)^2 - 1.589410 (dbh/100) + 0.117400",
+        "region": 9,
+        "species": 104,
+        "volumetric": true
+    }
+},
+{
+    "pk": 325,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia flosreginae",
+        "string": "9.764640 (dbh/100)^2 - 1.589410 (dbh/100) + 0.117400",
+        "region": 9,
+        "species": 103,
+        "volumetric": true
+    }
+},
+{
+    "pk": 326,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Schima wallichii",
+        "string": "15.866870 (dbh/100)^2 - 3.684430 (dbh/100) + 0.276090",
+        "region": 9,
+        "species": 136,
+        "volumetric": true
+    }
+},
+{
+    "pk": 327,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Shorea robusta",
+        "string": "6.907330 (dbh/100)^2 - 0.275160 (dbh/100) + 0.003890",
+        "region": 9,
+        "species": 138,
+        "volumetric": true
+    }
+},
+{
+    "pk": 328,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Tectona grandis",
+        "string": "-1.615735 (dbh/100)^(3/2) + 8.983927 (dbh/100)^2 - 0.353513 (dbh/100) + 0.038322 sqrt(dbh/100) +  0.005054",
+        "region": 9,
+        "species": 22,
+        "volumetric": true
+    }
+},
+{
+    "pk": 329,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia belerica",
+        "string": "12.357400 (dbh/100)^2 - 3.052490 (dbh/100) + 0.264540",
+        "region": 9,
+        "species": 145,
+        "volumetric": true
+    }
+},
+{
+    "pk": 330,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia crenulata",
+        "string": "9.472100 (dbh/100)^2 - 0.841580 (dbh/100) + 0.022389",
+        "region": 9,
+        "species": 23,
+        "volumetric": true
+    }
+},
+{
+    "pk": 331,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia tomentosa",
+        "string": "9.472100 (dbh/100)^2 - 0.841580 (dbh/100) + 0.022389",
+        "region": 9,
+        "species": 24,
+        "volumetric": true
+    }
+},
+{
+    "pk": 332,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Trewia nudiflora",
+        "string": "0.001000 (dbh/100)^2 - 0.013100 (dbh/100) + 0.054900",
+        "region": 9,
+        "species": 147,
+        "volumetric": true
+    }
+},
+{
+    "pk": 333,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Wrightia tomentosa",
+        "string": "-13.778384 (dbh/100)^(3/2) + 19.505119 (dbh/100)^2 + 4.485056 (dbh/100) - 0.724694 sqrt(dbh/100) +  0.053959",
+        "region": 9,
+        "species": 148,
+        "volumetric": true
+    }
+},
+{
+    "pk": 334,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acacia catechu",
+        "string": "1.120830 (dbh/100)^2 + 0.168970 (dbh/100) - 0.024710",
+        "region": 11,
+        "species": 42,
+        "volumetric": true
+    }
+},
+{
+    "pk": 335,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acacia ferruginea",
+        "string": "-2.865463 (dbh/100)^(3/2) + 6.859737 (dbh/100)^2 + 0.291804 (dbh/100) + 0.001554 sqrt(dbh/100) +  0.000002",
+        "region": 11,
+        "species": 58,
+        "volumetric": true
+    }
+},
+{
+    "pk": 336,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acacia lenticularis",
+        "string": "-2.865463 (dbh/100)^(3/2) + 6.859737 (dbh/100)^2 + 0.291804 (dbh/100) + 0.001554 sqrt(dbh/100) +  0.000002",
+        "region": 11,
+        "species": 59,
+        "volumetric": true
+    }
+},
+{
+    "pk": 337,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acacia leucophloea",
+        "string": "-2.865463 (dbh/100)^(3/2) + 6.859737 (dbh/100)^2 + 0.291804 (dbh/100) + 0.001554 sqrt(dbh/100) +  0.000002",
+        "region": 11,
+        "species": 60,
+        "volumetric": true
+    }
+},
+{
+    "pk": 338,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acacia species",
+        "string": "-2.865463 (dbh/100)^(3/2) + 6.859737 (dbh/100)^2 + 0.291804 (dbh/100) + 0.001554 sqrt(dbh/100) +  0.000002",
+        "region": 11,
+        "species": 61,
+        "volumetric": true
+    }
+},
+{
+    "pk": 339,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Anogeissus pendula",
+        "string": "-0.905850 (dbh/100)^3 + 4.773860 (dbh/100)^2 - 0.351650 (dbh/100) + 0.000850",
+        "region": 11,
+        "species": 28,
+        "volumetric": true
+    }
+},
+{
+    "pk": 340,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bauhinia species",
+        "string": "-1.615735 (dbh/100)^(3/2) + 8.983927 (dbh/100)^2 - 0.353513 (dbh/100) + 0.038322 sqrt(dbh/100) +  0.005054",
+        "region": 11,
+        "species": 69,
+        "volumetric": true
+    }
+},
+{
+    "pk": 341,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Boswellia serrata",
+        "string": "5.882565 (dbh/100)^2 - 0.564100 (dbh/100) + 0.013523",
+        "region": 11,
+        "species": 73,
+        "volumetric": true
+    }
+},
+{
+    "pk": 342,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea monosperma",
+        "string": "8.733503 (dbh/100)^2 - 1.434833 (dbh/100) + 0.058932",
+        "region": 11,
+        "species": 29,
+        "volumetric": true
+    }
+},
+{
+    "pk": 343,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea frondosa",
+        "string": "8.733503 (dbh/100)^2 - 1.434833 (dbh/100) + 0.058932",
+        "region": 11,
+        "species": 30,
+        "volumetric": true
+    }
+},
+{
+    "pk": 344,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Diospyros melanoxylon",
+        "string": "9.175590 (dbh/100)^2 - 2.207500 (dbh/100) + 0.155810",
+        "region": 11,
+        "species": 88,
+        "volumetric": true
+    }
+},
+{
+    "pk": 345,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea coromandelica",
+        "string": "5.338950 (dbh/100)^2 - 0.399530 (dbh/100) - 0.001460",
+        "region": 11,
+        "species": 31,
+        "volumetric": true
+    }
+},
+{
+    "pk": 346,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea grandis",
+        "string": "5.338950 (dbh/100)^2 - 0.399530 (dbh/100) - 0.001460",
+        "region": 11,
+        "species": 33,
+        "volumetric": true
+    }
+},
+{
+    "pk": 347,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Odina wodier",
+        "string": "5.338950 (dbh/100)^2 - 0.399530 (dbh/100) - 0.001460",
+        "region": 11,
+        "species": 34,
+        "volumetric": true
+    }
+},
+{
+    "pk": 348,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Manilkara achras",
+        "string": "0.000719 (dbh/100)^2 - 0.004970 (dbh/100) + 0.024500",
+        "region": 11,
+        "species": 110,
+        "volumetric": true
+    }
+},
+{
+    "pk": 349,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Prosopis cineraria",
+        "string": "6.452918 (dbh/100)^2 - 1.063661 (dbh/100) + 0.081467",
+        "region": 11,
+        "species": 121,
+        "volumetric": true
+    }
+},
+{
+    "pk": 350,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Prosopis juliflora",
+        "string": "6.452918 (dbh/100)^2 - 1.063661 (dbh/100) + 0.081467",
+        "region": 11,
+        "species": 122,
+        "volumetric": true
+    }
+},
+{
+    "pk": 351,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Salvadora oleoides",
+        "string": "6.452918 (dbh/100)^2 - 1.063661 (dbh/100) + 0.081467",
+        "region": 11,
+        "species": 133,
+        "volumetric": true
+    }
+},
+{
+    "pk": 352,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Wrightia tinctoria",
+        "string": "7.777047 (dbh/100)^3 + 0.028917",
+        "region": 11,
+        "species": 48,
+        "volumetric": true
+    }
+},
+{
+    "pk": 353,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acacia catechu",
+        "string": "1.120830 (dbh/100)^2 + 0.168970 (dbh/100) - 0.024710",
+        "region": 5,
+        "species": 42,
+        "volumetric": true
+    }
+},
+{
+    "pk": 354,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acacia lenticularis",
+        "string": "-2.865463 (dbh/100)^(3/2) + 6.859737 (dbh/100)^2 + 0.291804 (dbh/100) + 0.001554 sqrt(dbh/100) +  0.000002",
+        "region": 5,
+        "species": 59,
+        "volumetric": true
+    }
+},
+{
+    "pk": 355,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acacia leucophloea",
+        "string": "-2.865463 (dbh/100)^(3/2) + 6.859737 (dbh/100)^2 + 0.291804 (dbh/100) + 0.001554 sqrt(dbh/100) +  0.000002",
+        "region": 5,
+        "species": 60,
+        "volumetric": true
+    }
+},
+{
+    "pk": 356,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Aegle marmelos",
+        "string": "-11.602480 (dbh/100)^3 + 17.221270 (dbh/100)^2 - 2.788510 (dbh/100) + 0.166090",
+        "region": 5,
+        "species": 51,
+        "volumetric": true
+    }
+},
+{
+    "pk": 357,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Anogeissus latifolia",
+        "string": "9.800594 (dbh/100)^2 - 1.267012 (dbh/100) + 0.040950",
+        "region": 5,
+        "species": 4,
+        "volumetric": true
+    }
+},
+{
+    "pk": 358,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Anogeissus pendula",
+        "string": "-0.905850 (dbh/100)^3 + 4.773860 (dbh/100)^2 - 0.351650 (dbh/100) + 0.000850",
+        "region": 5,
+        "species": 28,
+        "volumetric": true
+    }
+},
+{
+    "pk": 359,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Boswellia serrata",
+        "string": "7.807833 (dbh/100)^2 - 0.839952 (dbh/100) + 0.022590",
+        "region": 5,
+        "species": 73,
+        "volumetric": true
+    }
+},
+{
+    "pk": 360,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Buchanania latifolia",
+        "string": "6.040660 (dbh/100)^2 - 0.640870 (dbh/100) + 0.031000",
+        "region": 5,
+        "species": 37,
+        "volumetric": true
+    }
+},
+{
+    "pk": 361,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Buchanania lanzan",
+        "string": "6.040660 (dbh/100)^2 - 0.640870 (dbh/100) + 0.031000",
+        "region": 5,
+        "species": 38,
+        "volumetric": true
+    }
+},
+{
+    "pk": 362,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea monosperma",
+        "string": "8.733503 (dbh/100)^2 - 1.434833 (dbh/100) + 0.058932",
+        "region": 5,
+        "species": 29,
+        "volumetric": true
+    }
+},
+{
+    "pk": 363,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea frondosa",
+        "string": "8.733503 (dbh/100)^2 - 1.434833 (dbh/100) + 0.058932",
+        "region": 5,
+        "species": 30,
+        "volumetric": true
+    }
+},
+{
+    "pk": 364,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Chloroxylon swietenia",
+        "string": "2.043969 (dbh/100)^2 - 0.003156",
+        "region": 5,
+        "species": 27,
+        "volumetric": true
+    }
+},
+{
+    "pk": 365,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Diospyros melanoxylon",
+        "string": "9.175590 (dbh/100)^2 - 2.207500 (dbh/100) + 0.155810",
+        "region": 5,
+        "species": 88,
+        "volumetric": true
+    }
+},
+{
+    "pk": 366,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Flacourtia indica",
+        "string": "7.420770 (dbh/100)^2 - 0.838878 (dbh/100) + 0.023708",
+        "region": 5,
+        "species": 96,
+        "volumetric": true
+    }
+},
+{
+    "pk": 367,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Flacourtia ramontchi",
+        "string": "7.420770 (dbh/100)^2 - 0.838878 (dbh/100) + 0.023708",
+        "region": 5,
+        "species": 97,
+        "volumetric": true
+    }
+},
+{
+    "pk": 368,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Flacourtia indica",
+        "string": "7.420770 (dbh/100)^2 - 0.838878 (dbh/100) + 0.023708",
+        "region": 5,
+        "species": 96,
+        "volumetric": true
+    }
+},
+{
+    "pk": 369,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia parviflora",
+        "string": "10.295730 (dbh/100)^2 - 1.688290 (dbh/100) + 0.105290",
+        "region": 5,
+        "species": 36,
+        "volumetric": true
+    }
+},
+{
+    "pk": 370,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea coromandelica",
+        "string": "11.907260 (dbh/100)^2 - 2.359900 (dbh/100) + 0.140040",
+        "region": 5,
+        "species": 31,
+        "volumetric": true
+    }
+},
+{
+    "pk": 371,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea grandis",
+        "string": "11.907260 (dbh/100)^2 - 2.359900 (dbh/100) + 0.140040",
+        "region": 5,
+        "species": 33,
+        "volumetric": true
+    }
+},
+{
+    "pk": 372,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Odina wodier",
+        "string": "11.907260 (dbh/100)^2 - 2.359900 (dbh/100) + 0.140040",
+        "region": 5,
+        "species": 34,
+        "volumetric": true
+    }
+},
+{
+    "pk": 373,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Madhuca latifolia",
+        "string": "5.355486 (dbh/100)^3 + 0.063632",
+        "region": 5,
+        "species": 39,
+        "volumetric": true
+    }
+},
+{
+    "pk": 374,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Madhuca longifolia",
+        "string": "5.355486 (dbh/100)^3 + 0.063632",
+        "region": 5,
+        "species": 108,
+        "volumetric": true
+    }
+},
+{
+    "pk": 375,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Madhuca indica",
+        "string": "5.355486 (dbh/100)^3 + 0.063632",
+        "region": 5,
+        "species": 40,
+        "volumetric": true
+    }
+},
+{
+    "pk": 376,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bassia latifolia",
+        "string": "5.355486 (dbh/100)^3 + 0.063632",
+        "region": 5,
+        "species": 41,
+        "volumetric": true
+    }
+},
+{
+    "pk": 377,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Miliusa tomentosa",
+        "string": "-51.766347 (dbh/100)^(3/2) + 49.433977 (dbh/100)^2 + 22.886734 (dbh/100) - 4.887481 sqrt(dbh/100) +  0.440657",
+        "region": 5,
+        "species": 113,
+        "volumetric": true
+    }
+},
+{
+    "pk": 378,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Saccopetalum tomentosum",
+        "string": "-51.766347 (dbh/100)^(3/2) + 49.433977 (dbh/100)^2 + 22.886734 (dbh/100) - 4.887481 sqrt(dbh/100) +  0.440657",
+        "region": 5,
+        "species": 131,
+        "volumetric": true
+    }
+},
+{
+    "pk": 379,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Mitragyna parviflora",
+        "string": "10.086934 (dbh/100)^2 - 1.744274 (dbh/100) + 0.099768",
+        "region": 5,
+        "species": 114,
+        "volumetric": true
+    }
+},
+{
+    "pk": 380,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Stephegyne parviflora",
+        "string": "10.086934 (dbh/100)^2 - 1.744274 (dbh/100) + 0.099768",
+        "region": 5,
+        "species": 139,
+        "volumetric": true
+    }
+},
+{
+    "pk": 381,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Tectona grandis",
+        "string": "3.913117 (dbh/100)^(3/2) + 3.926659 (dbh/100)^2 - 0.633702 (dbh/100) - 0.801530 sqrt(dbh/100) +  0.164747",
+        "region": 5,
+        "species": 22,
+        "volumetric": true
+    }
+},
+{
+    "pk": 382,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia crenulata",
+        "string": "9.980639 (dbh/100)^2 - 1.288625 (dbh/100) + 0.041594",
+        "region": 5,
+        "species": 23,
+        "volumetric": true
+    }
+},
+{
+    "pk": 383,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia tomentosa",
+        "string": "9.980639 (dbh/100)^2 - 1.288625 (dbh/100) + 0.041594",
+        "region": 5,
+        "species": 24,
+        "volumetric": true
+    }
+},
+{
+    "pk": 384,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Wrightia tinctoria",
+        "string": "-4.285759 (dbh/100)^(3/2) + 9.706322 (dbh/100)^2 + 0.786468 (dbh/100) - 0.069186 sqrt(dbh/100) +  0.002529",
+        "region": 5,
+        "species": 48,
+        "volumetric": true
+    }
+},
+{
+    "pk": 385,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Zizyphus xylopyrus",
+        "string": "4.663714 (dbh/100)^2 + 0.027354",
+        "region": 5,
+        "species": 50,
+        "volumetric": true
+    }
+},
+{
+    "pk": 386,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acacia catechu",
+        "string": "7.268750 (dbh/100)^2 - 0.742400 (dbh/100) + 0.042350",
+        "region": 7,
+        "species": 42,
+        "volumetric": true
+    }
+},
+{
+    "pk": 387,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Aegle marmelos",
+        "string": "9.258000 (dbh/100)^2 - 1.768000 (dbh/100) + 0.119000",
+        "region": 7,
+        "species": 51,
+        "volumetric": true
+    }
+},
+{
+    "pk": 388,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Anogeissus latifolia",
+        "string": "7.952136 (dbh/100)^2 - 0.061856",
+        "region": 7,
+        "species": 4,
+        "volumetric": true
+    }
+},
+{
+    "pk": 389,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bauhinia retusa",
+        "string": "1.236100 (dbh/100)^2 + 0.307800 (dbh/100) - 0.023600",
+        "region": 7,
+        "species": 52,
+        "volumetric": true
+    }
+},
+{
+    "pk": 390,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bauhinia variegata",
+        "string": "1.236100 (dbh/100)^2 + 0.307800 (dbh/100) - 0.023600",
+        "region": 7,
+        "species": 53,
+        "volumetric": true
+    }
+},
+{
+    "pk": 391,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Buchanania latifolia",
+        "string": "1.038300 (dbh/100)^2 + 0.265400 (dbh/100) - 0.007670",
+        "region": 7,
+        "species": 37,
+        "volumetric": true
+    }
+},
+{
+    "pk": 392,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Buchanania lanzan",
+        "string": "1.038300 (dbh/100)^2 + 0.265400 (dbh/100) - 0.007670",
+        "region": 7,
+        "species": 38,
+        "volumetric": true
+    }
+},
+{
+    "pk": 393,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea monosperma",
+        "string": "7.208000 (dbh/100)^2 - 0.061900 (dbh/100) - 0.032000",
+        "region": 7,
+        "species": 29,
+        "volumetric": true
+    }
+},
+{
+    "pk": 394,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea frondosa",
+        "string": "7.208000 (dbh/100)^2 - 0.061900 (dbh/100) - 0.032000",
+        "region": 7,
+        "species": 30,
+        "volumetric": true
+    }
+},
+{
+    "pk": 395,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Chloroxylon swietenia",
+        "string": "5.277700 (dbh/100)^2 - 0.668900 (dbh/100) + 0.024200",
+        "region": 7,
+        "species": 27,
+        "volumetric": true
+    }
+},
+{
+    "pk": 396,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Cleistanthus collinus",
+        "string": "4.784837 (dbh/100)^2 - 0.320414 (dbh/100) + 0.005364",
+        "region": 7,
+        "species": 49,
+        "volumetric": true
+    }
+},
+{
+    "pk": 397,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Diospyros melanoxylon",
+        "string": "8.255412 (dbh/100)^2 - 0.975148 (dbh/100) + 0.033867",
+        "region": 7,
+        "species": 88,
+        "volumetric": true
+    }
+},
+{
+    "pk": 398,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia resinifera",
+        "string": "6.751000 (dbh/100)^2 - 1.188000 (dbh/100) + 0.078000",
+        "region": 7,
+        "species": 43,
+        "volumetric": true
+    }
+},
+{
+    "pk": 399,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia turgida",
+        "string": "6.751000 (dbh/100)^2 - 1.188000 (dbh/100) + 0.078000",
+        "region": 7,
+        "species": 44,
+        "volumetric": true
+    }
+},
+{
+    "pk": 400,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia lucida",
+        "string": "6.751000 (dbh/100)^2 - 1.188000 (dbh/100) + 0.078000",
+        "region": 7,
+        "species": 45,
+        "volumetric": true
+    }
+},
+{
+    "pk": 401,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia latifolia",
+        "string": "6.751000 (dbh/100)^2 - 1.188000 (dbh/100) + 0.078000",
+        "region": 7,
+        "species": 46,
+        "volumetric": true
+    }
+},
+{
+    "pk": 402,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia gum",
+        "string": "6.751000 (dbh/100)^2 - 1.188000 (dbh/100) + 0.078000",
+        "region": 7,
+        "species": 47,
+        "volumetric": true
+    }
+},
+{
+    "pk": 403,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia parviflora",
+        "string": "9.629971 (dbh/100)^2 - 1.371984 (dbh/100) + 0.064660",
+        "region": 7,
+        "species": 36,
+        "volumetric": true
+    }
+},
+{
+    "pk": 404,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea coromandelica",
+        "string": "9.011590 (dbh/100)^2 - 1.531417 (dbh/100) + 0.093318",
+        "region": 7,
+        "species": 31,
+        "volumetric": true
+    }
+},
+{
+    "pk": 405,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea grandis",
+        "string": "9.011590 (dbh/100)^2 - 1.531417 (dbh/100) + 0.093318",
+        "region": 7,
+        "species": 33,
+        "volumetric": true
+    }
+},
+{
+    "pk": 406,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Odina wodier",
+        "string": "9.011590 (dbh/100)^2 - 1.531417 (dbh/100) + 0.093318",
+        "region": 7,
+        "species": 34,
+        "volumetric": true
+    }
+},
+{
+    "pk": 407,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Madhuca latifolia",
+        "string": "7.726902 (dbh/100)^2 - 1.230020 (dbh/100) + 0.074069",
+        "region": 7,
+        "species": 39,
+        "volumetric": true
+    }
+},
+{
+    "pk": 408,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Madhuca longifolia",
+        "string": "7.726902 (dbh/100)^2 - 1.230020 (dbh/100) + 0.074069",
+        "region": 7,
+        "species": 108,
+        "volumetric": true
+    }
+},
+{
+    "pk": 409,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Madhuca indica",
+        "string": "7.726902 (dbh/100)^2 - 1.230020 (dbh/100) + 0.074069",
+        "region": 7,
+        "species": 40,
+        "volumetric": true
+    }
+},
+{
+    "pk": 410,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bassia latifolia",
+        "string": "7.726902 (dbh/100)^2 - 1.230020 (dbh/100) + 0.074069",
+        "region": 7,
+        "species": 41,
+        "volumetric": true
+    }
+},
+{
+    "pk": 411,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Memecylon edule",
+        "string": "9.692000 (dbh/100)^2 - 1.709000 (dbh/100) + 0.103000",
+        "region": 7,
+        "species": 111,
+        "volumetric": true
+    }
+},
+{
+    "pk": 412,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Miliusa tomentosa",
+        "string": "-51.766347 (dbh/100)^(3/2) + 49.433977 (dbh/100)^2 + 22.886734 (dbh/100) - 4.887481 sqrt(dbh/100) +  0.440657",
+        "region": 7,
+        "species": 113,
+        "volumetric": true
+    }
+},
+{
+    "pk": 413,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Saccopetalum tomentosum",
+        "string": "-51.766347 (dbh/100)^(3/2) + 49.433977 (dbh/100)^2 + 22.886734 (dbh/100) - 4.887481 sqrt(dbh/100) +  0.440657",
+        "region": 7,
+        "species": 131,
+        "volumetric": true
+    }
+},
+{
+    "pk": 414,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium cumini",
+        "string": "12.959000 (dbh/100)^2 - 3.377000 (dbh/100) + 0.273600",
+        "region": 7,
+        "species": 19,
+        "volumetric": true
+    }
+},
+{
+    "pk": 415,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium jambolanum",
+        "string": "12.959000 (dbh/100)^2 - 3.377000 (dbh/100) + 0.273600",
+        "region": 7,
+        "species": 20,
+        "volumetric": true
+    }
+},
+{
+    "pk": 416,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Eugenia jambolana",
+        "string": "12.959000 (dbh/100)^2 - 3.377000 (dbh/100) + 0.273600",
+        "region": 7,
+        "species": 21,
+        "volumetric": true
+    }
+},
+{
+    "pk": 417,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Tectona grandis",
+        "string": "6.565986 (dbh/100)^2 - 0.546922 (dbh/100) + 0.011389",
+        "region": 7,
+        "species": 22,
+        "volumetric": true
+    }
+},
+{
+    "pk": 418,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia crenulata",
+        "string": "8.204564 (dbh/100)^2 - 1.056150 (dbh/100) + 0.048532",
+        "region": 7,
+        "species": 23,
+        "volumetric": true
+    }
+},
+{
+    "pk": 419,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia tomentosa",
+        "string": "8.204564 (dbh/100)^2 - 1.056150 (dbh/100) + 0.048532",
+        "region": 7,
+        "species": 24,
+        "volumetric": true
+    }
+},
+{
+    "pk": 420,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Wrightia tinctoria",
+        "string": "4.149345 (dbh/100)^2 - 0.009510",
+        "region": 7,
+        "species": 48,
+        "volumetric": true
+    }
+},
+{
+    "pk": 421,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Zizyphus xylopyrus",
+        "string": "1.479400 (dbh/100)^2 + 0.231300 (dbh/100) - 0.025700",
+        "region": 7,
+        "species": 50,
+        "volumetric": true
+    }
+},
+{
+    "pk": 422,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Anogeissus latifolia",
+        "string": "8.050030 (dbh/100)^2 - 0.029580",
+        "region": 6,
+        "species": 4,
+        "volumetric": true
+    }
+},
+{
+    "pk": 423,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Boswellia serrata",
+        "string": "9.484710 (dbh/100)^2 - 1.327680 sqrt(dbh/100) + 0.364320",
+        "region": 6,
+        "species": 73,
+        "volumetric": true
+    }
+},
+{
+    "pk": 424,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bridelia retusa",
+        "string": "-8.956530 (dbh/100)^(3/2) + 17.033037 (dbh/100)^2 + 2.136550 (dbh/100) - 0.252174 sqrt(dbh/100) +  0.013502",
+        "region": 6,
+        "species": 74,
+        "volumetric": true
+    }
+},
+{
+    "pk": 425,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bridelia squamosa",
+        "string": "-8.956530 (dbh/100)^(3/2) + 17.033037 (dbh/100)^2 + 2.136550 (dbh/100) - 0.252174 sqrt(dbh/100) +  0.013502",
+        "region": 6,
+        "species": 75,
+        "volumetric": true
+    }
+},
+{
+    "pk": 426,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Buchanania latifolia",
+        "string": "6.040660 (dbh/100)^2 - 0.640870 (dbh/100) + 0.031000",
+        "region": 6,
+        "species": 37,
+        "volumetric": true
+    }
+},
+{
+    "pk": 427,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Buchanania lanzan",
+        "string": "6.040660 (dbh/100)^2 - 0.640870 (dbh/100) + 0.031000",
+        "region": 6,
+        "species": 38,
+        "volumetric": true
+    }
+},
+{
+    "pk": 428,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea monosperma",
+        "string": "8.733503 (dbh/100)^2 - 1.434833 (dbh/100) + 0.058932",
+        "region": 6,
+        "species": 29,
+        "volumetric": true
+    }
+},
+{
+    "pk": 429,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea frondosa",
+        "string": "8.733503 (dbh/100)^2 - 1.434833 (dbh/100) + 0.058932",
+        "region": 6,
+        "species": 30,
+        "volumetric": true
+    }
+},
+{
+    "pk": 430,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Chloroxylon swietenia",
+        "string": "2.043969 (dbh/100)^2 - 0.003156",
+        "region": 6,
+        "species": 27,
+        "volumetric": true
+    }
+},
+{
+    "pk": 431,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Cleistanthus collinus",
+        "string": "5.709471 (dbh/100)^2 - 0.567037 (dbh/100) + 0.030925",
+        "region": 6,
+        "species": 49,
+        "volumetric": true
+    }
+},
+{
+    "pk": 432,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Dalbergia paniculata",
+        "string": "-58.827992 (dbh/100)^(3/2) + 53.549758 (dbh/100)^2 + 27.410766 (dbh/100) - 6.181716 sqrt(dbh/100) +  0.591299",
+        "region": 6,
+        "species": 85,
+        "volumetric": true
+    }
+},
+{
+    "pk": 433,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Diospyros melanoxylon",
+        "string": "10.877470 (dbh/100)^2 - 2.009660 (dbh/100) + 0.124010",
+        "region": 6,
+        "species": 88,
+        "volumetric": true
+    }
+},
+{
+    "pk": 434,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Diospyros species",
+        "string": "10.877470 (dbh/100)^2 - 2.009660 (dbh/100) + 0.124010",
+        "region": 6,
+        "species": 35,
+        "volumetric": true
+    }
+},
+{
+    "pk": 435,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Emblica officinalis",
+        "string": "4.889163 (dbh/100)^2 - 0.022635",
+        "region": 6,
+        "species": 92,
+        "volumetric": true
+    }
+},
+{
+    "pk": 436,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Phyllanthus emblica",
+        "string": "4.889163 (dbh/100)^2 - 0.022635",
+        "region": 6,
+        "species": 115,
+        "volumetric": true
+    }
+},
+{
+    "pk": 437,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia resinifera",
+        "string": "8.760534 (dbh/100)^2 - 1.449236 (dbh/100) + 0.088074",
+        "region": 6,
+        "species": 43,
+        "volumetric": true
+    }
+},
+{
+    "pk": 438,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia turgida",
+        "string": "8.760534 (dbh/100)^2 - 1.449236 (dbh/100) + 0.088074",
+        "region": 6,
+        "species": 44,
+        "volumetric": true
+    }
+},
+{
+    "pk": 439,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia lucida",
+        "string": "8.760534 (dbh/100)^2 - 1.449236 (dbh/100) + 0.088074",
+        "region": 6,
+        "species": 45,
+        "volumetric": true
+    }
+},
+{
+    "pk": 440,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia latifolia",
+        "string": "8.760534 (dbh/100)^2 - 1.449236 (dbh/100) + 0.088074",
+        "region": 6,
+        "species": 46,
+        "volumetric": true
+    }
+},
+{
+    "pk": 441,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia gum",
+        "string": "8.760534 (dbh/100)^2 - 1.449236 (dbh/100) + 0.088074",
+        "region": 6,
+        "species": 47,
+        "volumetric": true
+    }
+},
+{
+    "pk": 442,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia parviflora",
+        "string": "11.891190 (dbh/100)^2 - 1.376050 (dbh/100) + 0.069130",
+        "region": 6,
+        "species": 36,
+        "volumetric": true
+    }
+},
+{
+    "pk": 443,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea coromandelica",
+        "string": "8.542648 (dbh/100)^2 - 1.153088 (dbh/100) + 0.057424",
+        "region": 6,
+        "species": 31,
+        "volumetric": true
+    }
+},
+{
+    "pk": 444,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea grandis",
+        "string": "8.542648 (dbh/100)^2 - 1.153088 (dbh/100) + 0.057424",
+        "region": 6,
+        "species": 33,
+        "volumetric": true
+    }
+},
+{
+    "pk": 445,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Odina wodier",
+        "string": "8.542648 (dbh/100)^2 - 1.153088 (dbh/100) + 0.057424",
+        "region": 6,
+        "species": 34,
+        "volumetric": true
+    }
+},
+{
+    "pk": 446,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Madhuca latifolia",
+        "string": "7.344600 (dbh/100)^2 - 0.555470 (dbh/100) - 0.000920",
+        "region": 6,
+        "species": 39,
+        "volumetric": true
+    }
+},
+{
+    "pk": 447,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Madhuca longifolia",
+        "string": "7.344600 (dbh/100)^2 - 0.555470 (dbh/100) - 0.000920",
+        "region": 6,
+        "species": 108,
+        "volumetric": true
+    }
+},
+{
+    "pk": 448,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Madhuca indica",
+        "string": "7.344600 (dbh/100)^2 - 0.555470 (dbh/100) - 0.000920",
+        "region": 6,
+        "species": 40,
+        "volumetric": true
+    }
+},
+{
+    "pk": 449,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bassia latifolia",
+        "string": "7.344600 (dbh/100)^2 - 0.555470 (dbh/100) - 0.000920",
+        "region": 6,
+        "species": 41,
+        "volumetric": true
+    }
+},
+{
+    "pk": 450,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Pterocarpus marsupium",
+        "string": "8.069010 (dbh/100)^2 - 0.046590",
+        "region": 6,
+        "species": 123,
+        "volumetric": true
+    }
+},
+{
+    "pk": 451,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Shorea robusta",
+        "string": "10.519820 (dbh/100)^2 - 1.229940 (dbh/100) + 0.058230",
+        "region": 6,
+        "species": 138,
+        "volumetric": true
+    }
+},
+{
+    "pk": 452,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Tectona grandis",
+        "string": "1.956610 (dbh/100)^3 + 8.182610 (dbh/100)^2 - 0.918630 (dbh/100) + 0.045181",
+        "region": 6,
+        "species": 22,
+        "volumetric": true
+    }
+},
+{
+    "pk": 453,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia crenulata",
+        "string": "8.778390 (dbh/100)^2 - 1.119940 (dbh/100) + 0.050610",
+        "region": 6,
+        "species": 23,
+        "volumetric": true
+    }
+},
+{
+    "pk": 454,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia tomentosa",
+        "string": "8.778390 (dbh/100)^2 - 1.119940 (dbh/100) + 0.050610",
+        "region": 6,
+        "species": 24,
+        "volumetric": true
+    }
+},
+{
+    "pk": 455,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Zizyphus xylopyrus",
+        "string": "4.663714 (dbh/100)^2 + 0.027354",
+        "region": 6,
+        "species": 50,
+        "volumetric": true
+    }
+},
+{
+    "pk": 456,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acacia auriculiformis",
+        "string": "-2.865463 (dbh/100)^(3/2) + 6.859737 (dbh/100)^2 + 0.291804 (dbh/100) + 0.001554 sqrt(dbh/100) +  0.000002",
+        "region": 8,
+        "species": 57,
+        "volumetric": true
+    }
+},
+{
+    "pk": 457,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Albizia amara",
+        "string": "-1.615735 (dbh/100)^(3/2) + 8.983927 (dbh/100)^2 - 0.353513 (dbh/100) + 0.038322 sqrt(dbh/100) +  0.005054",
+        "region": 8,
+        "species": 64,
+        "volumetric": true
+    }
+},
+{
+    "pk": 458,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Anogeissus latifolia",
+        "string": "11.771000 (dbh/100)^2 - 2.653000 (dbh/100) + 0.289000",
+        "region": 8,
+        "species": 4,
+        "volumetric": true
+    }
+},
+{
+    "pk": 459,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea monosperma",
+        "string": "8.984266 (dbh/100)^2 - 1.490948 (dbh/100) + 0.088183",
+        "region": 8,
+        "species": 29,
+        "volumetric": true
+    }
+},
+{
+    "pk": 460,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea frondosa",
+        "string": "8.984266 (dbh/100)^2 - 1.490948 (dbh/100) + 0.088183",
+        "region": 8,
+        "species": 30,
+        "volumetric": true
+    }
+},
+{
+    "pk": 461,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Chloroxylon swietenia",
+        "string": "3.237800 (dbh/100)^2 - 0.053200 (dbh/100)",
+        "region": 8,
+        "species": 27,
+        "volumetric": true
+    }
+},
+{
+    "pk": 462,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Dalbergia paniculata",
+        "string": "10.544620 (dbh/100)^2 - 2.462150 (dbh/100) + 0.189450",
+        "region": 8,
+        "species": 85,
+        "volumetric": true
+    }
+},
+{
+    "pk": 463,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Eucalyptus species",
+        "string": "8.724160 (dbh/100)^2 - 0.892840 (dbh/100) + 0.028940",
+        "region": 8,
+        "species": 93,
+        "volumetric": true
+    }
+},
+{
+    "pk": 464,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Hardwickia binata",
+        "string": "5.355486 (dbh/100)^3 + 0.063632",
+        "region": 8,
+        "species": 101,
+        "volumetric": true
+    }
+},
+{
+    "pk": 465,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia parviflora",
+        "string": "9.403257 (dbh/100)^2 - 1.334512 (dbh/100) + 0.066188",
+        "region": 8,
+        "species": 36,
+        "volumetric": true
+    }
+},
+{
+    "pk": 466,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea coromandelica",
+        "string": "10.246240 (dbh/100)^2 - 1.661530 (dbh/100) + 0.091153",
+        "region": 8,
+        "species": 31,
+        "volumetric": true
+    }
+},
+{
+    "pk": 467,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea grandis",
+        "string": "10.246240 (dbh/100)^2 - 1.661530 (dbh/100) + 0.091153",
+        "region": 8,
+        "species": 33,
+        "volumetric": true
+    }
+},
+{
+    "pk": 468,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Odina wodier",
+        "string": "10.246240 (dbh/100)^2 - 1.661530 (dbh/100) + 0.091153",
+        "region": 8,
+        "species": 34,
+        "volumetric": true
+    }
+},
+{
+    "pk": 469,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium cumini",
+        "string": "8.984266 (dbh/100)^2 - 1.490948 (dbh/100) + 0.088183",
+        "region": 8,
+        "species": 19,
+        "volumetric": true
+    }
+},
+{
+    "pk": 470,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium jambolanum",
+        "string": "8.984266 (dbh/100)^2 - 1.490948 (dbh/100) + 0.088183",
+        "region": 8,
+        "species": 20,
+        "volumetric": true
+    }
+},
+{
+    "pk": 471,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Eugenia jambolana",
+        "string": "8.984266 (dbh/100)^2 - 1.490948 (dbh/100) + 0.088183",
+        "region": 8,
+        "species": 21,
+        "volumetric": true
+    }
+},
+{
+    "pk": 472,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Tectona grandis",
+        "string": "-5.581600 (dbh/100)^2 + 2.845800 (dbh/100) - 0.241400",
+        "region": 8,
+        "species": 22,
+        "volumetric": true
+    }
+},
+{
+    "pk": 473,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia crenulata",
+        "string": "7.991280 (dbh/100)^2 - 1.076790 (dbh/100) + 0.051812",
+        "region": 8,
+        "species": 23,
+        "volumetric": true
+    }
+},
+{
+    "pk": 474,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia tomentosa",
+        "string": "7.991280 (dbh/100)^2 - 1.076790 (dbh/100) + 0.051812",
+        "region": 8,
+        "species": 24,
+        "volumetric": true
+    }
+},
+{
+    "pk": 475,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia paniculata",
+        "string": "9.478610 (dbh/100)^2 - 1.871320 (dbh/100) + 0.131000",
+        "region": 8,
+        "species": 25,
+        "volumetric": true
+    }
+},
+{
+    "pk": 476,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Wrightia tinctoria",
+        "string": "-4.285759 (dbh/100)^(3/2) + 9.706322 (dbh/100)^2 + 0.786468 (dbh/100) - 0.069186 sqrt(dbh/100) +  0.002529",
+        "region": 8,
+        "species": 48,
+        "volumetric": true
+    }
+},
+{
+    "pk": 477,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acacia mearnsii",
+        "string": "9.242007 (dbh/100)^2 - 0.871849 (dbh/100) + 0.020562",
+        "region": 4,
+        "species": 1,
+        "volumetric": true
+    }
+},
+{
+    "pk": 478,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acacia melanoxylon",
+        "string": "-2.865463 (dbh/100)^(3/2) + 6.859737 (dbh/100)^2 + 0.291804 (dbh/100) + 0.001554 sqrt(dbh/100) +  0.000002",
+        "region": 4,
+        "species": 2,
+        "volumetric": true
+    }
+},
+{
+    "pk": 479,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acrocarpus fraxinifolius",
+        "string": "0.000970 (dbh/100)^2 - 0.094100",
+        "region": 4,
+        "species": 3,
+        "volumetric": true
+    }
+},
+{
+    "pk": 480,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Anogeissus latifolia",
+        "string": "12.261268 (dbh/100)^2 - 1.105937 (dbh/100) + 0.030502",
+        "region": 4,
+        "species": 4,
+        "volumetric": true
+    }
+},
+{
+    "pk": 481,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Aporosa lindleyana",
+        "string": "8.055700 (dbh/100)^2 - 1.461300 (dbh/100) + 0.100900",
+        "region": 4,
+        "species": 5,
+        "volumetric": true
+    }
+},
+{
+    "pk": 482,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Artocarpus heterophyllus",
+        "string": "11.370000 (dbh/100)^2 - 1.319000 (dbh/100) + 0.076000",
+        "region": 4,
+        "species": 6,
+        "volumetric": true
+    }
+},
+{
+    "pk": 483,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Artocarpus integrifolia",
+        "string": "11.370000 (dbh/100)^2 - 1.319000 (dbh/100) + 0.076000",
+        "region": 4,
+        "species": 7,
+        "volumetric": true
+    }
+},
+{
+    "pk": 484,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Cullenia excelsa",
+        "string": "16.792000 (dbh/100)^(2.716800)",
+        "region": 4,
+        "species": 8,
+        "volumetric": true
+    }
+},
+{
+    "pk": 485,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Holarrhena antidysenterica",
+        "string": "14.449610 (dbh/100)^2 - 2.787760 (dbh/100) + 0.179940",
+        "region": 4,
+        "species": 9,
+        "volumetric": true
+    }
+},
+{
+    "pk": 486,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia lanceolata",
+        "string": "10.141060 (dbh/100)^2 - 2.480710 (dbh/100) + 0.238390",
+        "region": 4,
+        "species": 10,
+        "volumetric": true
+    }
+},
+{
+    "pk": 487,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia microcarpa",
+        "string": "10.141060 (dbh/100)^2 - 2.480710 (dbh/100) + 0.238390",
+        "region": 4,
+        "species": 11,
+        "volumetric": true
+    }
+},
+{
+    "pk": 488,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Macaranga peltata",
+        "string": "-1.615735 (dbh/100)^(3/2) + 8.983927 (dbh/100)^2 - 0.353513 (dbh/100) + 0.038322 sqrt(dbh/100) +  0.005054",
+        "region": 4,
+        "species": 12,
+        "volumetric": true
+    }
+},
+{
+    "pk": 489,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Myristica malabarica",
+        "string": "-0.905850 (dbh/100)^3 + 4.773860 (dbh/100)^2 - 0.351650 (dbh/100) + 0.000850",
+        "region": 4,
+        "species": 13,
+        "volumetric": true
+    }
+},
+{
+    "pk": 490,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Olea dioica",
+        "string": "5.755230 (dbh/100)^2 - 0.030010",
+        "region": 4,
+        "species": 14,
+        "volumetric": true
+    }
+},
+{
+    "pk": 491,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Palaquium ellipticum",
+        "string": "0.000100 (dbh/100)^2 + 0.012200 (dbh/100) - 0.092900",
+        "region": 4,
+        "species": 15,
+        "volumetric": true
+    }
+},
+{
+    "pk": 492,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Pinus patula",
+        "string": "8.568301 (dbh/100)^2 - 1.172336 (dbh/100) + 0.040100",
+        "region": 4,
+        "species": 16,
+        "volumetric": true
+    }
+},
+{
+    "pk": 493,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Schleichera trijuga",
+        "string": "6.221400 (dbh/100)^2 - 0.496470 (dbh/100) + 0.016042",
+        "region": 4,
+        "species": 17,
+        "volumetric": true
+    }
+},
+{
+    "pk": 494,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Schleichera oleosa",
+        "string": "6.221400 (dbh/100)^2 - 0.496470 (dbh/100) + 0.016042",
+        "region": 4,
+        "species": 18,
+        "volumetric": true
+    }
+},
+{
+    "pk": 495,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium cumini",
+        "string": "-21.521371 (dbh/100)^(3/2) + 26.289308 (dbh/100)^2 + 7.553325 (dbh/100) - 1.288854 sqrt(dbh/100) +  0.094286",
+        "region": 4,
+        "species": 19,
+        "volumetric": true
+    }
+},
+{
+    "pk": 496,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium jambolanum",
+        "string": "-21.521371 (dbh/100)^(3/2) + 26.289308 (dbh/100)^2 + 7.553325 (dbh/100) - 1.288854 sqrt(dbh/100) +  0.094286",
+        "region": 4,
+        "species": 20,
+        "volumetric": true
+    }
+},
+{
+    "pk": 497,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Eugenia jambolana",
+        "string": "-21.521371 (dbh/100)^(3/2) + 26.289308 (dbh/100)^2 + 7.553325 (dbh/100) - 1.288854 sqrt(dbh/100) +  0.094286",
+        "region": 4,
+        "species": 21,
+        "volumetric": true
+    }
+},
+{
+    "pk": 498,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Tectona grandis",
+        "string": "3.913117 (dbh/100)^(3/2) + 3.926659 (dbh/100)^2 - 0.633702 (dbh/100) - 0.801530 sqrt(dbh/100) +  0.164747",
+        "region": 4,
+        "species": 22,
+        "volumetric": true
+    }
+},
+{
+    "pk": 499,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia crenulata",
+        "string": "9.980639 (dbh/100)^2 - 1.288625 (dbh/100) + 0.041594",
+        "region": 4,
+        "species": 23,
+        "volumetric": true
+    }
+},
+{
+    "pk": 500,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia tomentosa",
+        "string": "9.980639 (dbh/100)^2 - 1.288625 (dbh/100) + 0.041594",
+        "region": 4,
+        "species": 24,
+        "volumetric": true
+    }
+},
+{
+    "pk": 501,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia paniculata",
+        "string": "9.478610 (dbh/100)^2 - 1.871320 (dbh/100) + 0.131000",
+        "region": 4,
+        "species": 25,
+        "volumetric": true
+    }
+},
+{
+    "pk": 502,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Xylia xylocarpa",
+        "string": "4.880609 (dbh/100)^2 + 0.072064 (dbh/100) + 0.000266",
+        "region": 4,
+        "species": 26,
+        "volumetric": true
+    }
+},
+{
+    "pk": 503,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Albizia amara",
+        "string": "-1.615735 (dbh/100)^(3/2) + 8.983927 (dbh/100)^2 - 0.353513 (dbh/100) + 0.038322 sqrt(dbh/100) +  0.005054",
+        "region": 3,
+        "species": 64,
+        "volumetric": true
+    }
+},
+{
+    "pk": 504,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Albizia species",
+        "string": "-1.615735 (dbh/100)^(3/2) + 8.983927 (dbh/100)^2 - 0.353513 (dbh/100) + 0.038322 sqrt(dbh/100) +  0.005054",
+        "region": 3,
+        "species": 65,
+        "volumetric": true
+    }
+},
+{
+    "pk": 505,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Anogeissus latifolia",
+        "string": "20.224040 (dbh/100)^2 - 2.870670 (dbh/100) + 0.139280",
+        "region": 3,
+        "species": 4,
+        "volumetric": true
+    }
+},
+{
+    "pk": 506,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bridelia retusa",
+        "string": "8.157614 (dbh/100)^2 - 0.839708 (dbh/100) + 0.035142",
+        "region": 3,
+        "species": 74,
+        "volumetric": true
+    }
+},
+{
+    "pk": 507,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Buchanania latifolia",
+        "string": "e^2.249100 (dbh/100)^2.520600",
+        "region": 3,
+        "species": 37,
+        "volumetric": true
+    }
+},
+{
+    "pk": 508,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Buchanania lanzan",
+        "string": "e^2.249100 (dbh/100)^2.520600",
+        "region": 3,
+        "species": 38,
+        "volumetric": true
+    }
+},
+{
+    "pk": 509,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Chloroxylon swietenia",
+        "string": "2.043969 (dbh/100)^2 - 0.003156",
+        "region": 3,
+        "species": 27,
+        "volumetric": true
+    }
+},
+{
+    "pk": 510,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Cleistanthus collinus",
+        "string": "-7.917105 (dbh/100)^(3/2) + 14.302768 (dbh/100)^2 + 2.075568 (dbh/100) - 0.271223 sqrt(dbh/100) +  0.016786",
+        "region": 3,
+        "species": 49,
+        "volumetric": true
+    }
+},
+{
+    "pk": 511,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Diospyros melanoxylon",
+        "string": "-8.112066 (dbh/100)^(3/2) + 16.512114 (dbh/100)^2 + 1.543109 (dbh/100) - 0.134312 sqrt(dbh/100) +  0.004527",
+        "region": 3,
+        "species": 88,
+        "volumetric": true
+    }
+},
+{
+    "pk": 512,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Grewia tiliaefolia",
+        "string": "e^2.249100 (dbh/100)^2.520600",
+        "region": 3,
+        "species": 100,
+        "volumetric": true
+    }
+},
+{
+    "pk": 513,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea coromandelica",
+        "string": "8.542648 (dbh/100)^2 - 1.153088 (dbh/100) + 0.057424",
+        "region": 3,
+        "species": 31,
+        "volumetric": true
+    }
+},
+{
+    "pk": 514,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Pterocarpus marsupium",
+        "string": "0.227519 (dbh/100)^(3/2) + 7.952513 (dbh/100)^2 - 0.916346 (dbh/100) - 0.013131 sqrt(dbh/100) +  0.026491",
+        "region": 3,
+        "species": 123,
+        "volumetric": true
+    }
+},
+{
+    "pk": 515,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Semecarpus anacardium",
+        "string": "-1.615735 (dbh/100)^(3/2) + 8.983927 (dbh/100)^2 - 0.353513 (dbh/100) + 0.038322 sqrt(dbh/100) +  0.005054",
+        "region": 3,
+        "species": 137,
+        "volumetric": true
+    }
+},
+{
+    "pk": 516,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Shorea robusta",
+        "string": "-14.339236 (dbh/100)^(3/2) + 20.901264 (dbh/100)^2 + 4.287513 (dbh/100) - 0.627104 sqrt(dbh/100) +  0.039976",
+        "region": 3,
+        "species": 138,
+        "volumetric": true
+    }
+},
+{
+    "pk": 517,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium cumini",
+        "string": "-21.521371 (dbh/100)^(3/2) + 26.289308 (dbh/100)^2 + 7.553325 (dbh/100) - 1.288854 sqrt(dbh/100) +  0.094286",
+        "region": 3,
+        "species": 19,
+        "volumetric": true
+    }
+},
+{
+    "pk": 518,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium jambolanum",
+        "string": "-21.521371 (dbh/100)^(3/2) + 26.289308 (dbh/100)^2 + 7.553325 (dbh/100) - 1.288854 sqrt(dbh/100) +  0.094286",
+        "region": 3,
+        "species": 20,
+        "volumetric": true
+    }
+},
+{
+    "pk": 519,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Eugenia jambolana",
+        "string": "-21.521371 (dbh/100)^(3/2) + 26.289308 (dbh/100)^2 + 7.553325 (dbh/100) - 1.288854 sqrt(dbh/100) +  0.094286",
+        "region": 3,
+        "species": 21,
+        "volumetric": true
+    }
+},
+{
+    "pk": 520,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Tectona grandis",
+        "string": "-7.571350 (dbh/100)^3 + 16.523360 (dbh/100)^2 - 2.452120 (dbh/100) + 0.125910",
+        "region": 3,
+        "species": 22,
+        "volumetric": true
+    }
+},
+{
+    "pk": 521,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia crenulata",
+        "string": "8.778390 (dbh/100)^2 - 1.119940 (dbh/100) + 0.050610",
+        "region": 3,
+        "species": 23,
+        "volumetric": true
+    }
+},
+{
+    "pk": 522,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia tomentosa",
+        "string": "8.778390 (dbh/100)^2 - 1.119940 (dbh/100) + 0.050610",
+        "region": 3,
+        "species": 24,
+        "volumetric": true
+    }
+},
+{
+    "pk": 523,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Xylia xylocarpa",
+        "string": "8.963000 (dbh/100)^2 - 1.520000 (dbh/100) + 0.098000",
+        "region": 3,
+        "species": 26,
+        "volumetric": true
+    }
+},
+{
+    "pk": 524,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acacia catechu",
+        "string": "5.873169 (dbh/100)^2 - 0.048108",
+        "region": 2,
+        "species": 42,
+        "volumetric": true
+    }
+},
+{
+    "pk": 525,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Anogeissus latifolia",
+        "string": "5.907082 (dbh/100)^2 - 1.737154 (dbh/100) + 0.127715",
+        "region": 2,
+        "species": 4,
+        "volumetric": true
+    }
+},
+{
+    "pk": 526,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bombax ceiba",
+        "string": "10.156600 (dbh/100)^2 - 2.076740 (dbh/100) + 0.136196",
+        "region": 2,
+        "species": 70,
+        "volumetric": true
+    }
+},
+{
+    "pk": 527,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bombax malabaricum",
+        "string": "10.156600 (dbh/100)^2 - 2.076740 (dbh/100) + 0.136196",
+        "region": 2,
+        "species": 72,
+        "volumetric": true
+    }
+},
+{
+    "pk": 528,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Salmalia malabarica",
+        "string": "10.156600 (dbh/100)^2 - 2.076740 (dbh/100) + 0.136196",
+        "region": 2,
+        "species": 132,
+        "volumetric": true
+    }
+},
+{
+    "pk": 529,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bombax insigne",
+        "string": "10.156600 (dbh/100)^2 - 2.076740 (dbh/100) + 0.136196",
+        "region": 2,
+        "species": 71,
+        "volumetric": true
+    }
+},
+{
+    "pk": 530,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Boswellia serrata",
+        "string": "9.128465 (dbh/100)^2 - 1.139980 (dbh/100) + 0.035591",
+        "region": 2,
+        "species": 73,
+        "volumetric": true
+    }
+},
+{
+    "pk": 531,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bridelia retusa",
+        "string": "8.157614 (dbh/100)^2 - 0.839708 (dbh/100) + 0.035142",
+        "region": 2,
+        "species": 74,
+        "volumetric": true
+    }
+},
+{
+    "pk": 532,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bridelia squamosa",
+        "string": "8.157614 (dbh/100)^2 - 0.839708 (dbh/100) + 0.035142",
+        "region": 2,
+        "species": 75,
+        "volumetric": true
+    }
+},
+{
+    "pk": 533,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea monosperma",
+        "string": "10.156600 (dbh/100)^2 - 2.076740 (dbh/100) + 0.136196",
+        "region": 2,
+        "species": 29,
+        "volumetric": true
+    }
+},
+{
+    "pk": 534,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea frondosa",
+        "string": "10.156600 (dbh/100)^2 - 2.076740 (dbh/100) + 0.136196",
+        "region": 2,
+        "species": 30,
+        "volumetric": true
+    }
+},
+{
+    "pk": 535,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Careya arborea",
+        "string": "2.263463 (dbh/100)^(3/2) + 5.442376 (dbh/100)^2 - 0.872221 (dbh/100) - 0.230316 sqrt(dbh/100) +  0.056349",
+        "region": 2,
+        "species": 77,
+        "volumetric": true
+    }
+},
+{
+    "pk": 536,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Dalbergia latifolia",
+        "string": "8.661926 (dbh/100)^2 - 0.850584 (dbh/100) + 0.020881",
+        "region": 2,
+        "species": 84,
+        "volumetric": true
+    }
+},
+{
+    "pk": 537,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Garuga pinnata",
+        "string": "9.797028 (dbh/100)^2 - 1.481043 (dbh/100) + 0.077965",
+        "region": 2,
+        "species": 98,
+        "volumetric": true
+    }
+},
+{
+    "pk": 538,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Grewia tiliaefolia",
+        "string": "13.916741 (dbh/100)^3 + 0.018620",
+        "region": 2,
+        "species": 100,
+        "volumetric": true
+    }
+},
+{
+    "pk": 539,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia lanceolata",
+        "string": "9.285000 (dbh/100)^2 - 1.817000 (dbh/100) + 0.177000",
+        "region": 2,
+        "species": 10,
+        "volumetric": true
+    }
+},
+{
+    "pk": 540,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia microcarpa",
+        "string": "9.285000 (dbh/100)^2 - 1.817000 (dbh/100) + 0.177000",
+        "region": 2,
+        "species": 11,
+        "volumetric": true
+    }
+},
+{
+    "pk": 541,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea coromandelica",
+        "string": "-28.281042 (dbh/100)^(3/2) + 30.858592 (dbh/100)^2 + 10.969879 (dbh/100) - 2.057563 sqrt(dbh/100) +  0.163340",
+        "region": 2,
+        "species": 31,
+        "volumetric": true
+    }
+},
+{
+    "pk": 542,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea grandis",
+        "string": "-28.281042 (dbh/100)^(3/2) + 30.858592 (dbh/100)^2 + 10.969879 (dbh/100) - 2.057563 sqrt(dbh/100) +  0.163340",
+        "region": 2,
+        "species": 33,
+        "volumetric": true
+    }
+},
+{
+    "pk": 543,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Odina wodier",
+        "string": "-28.281042 (dbh/100)^(3/2) + 30.858592 (dbh/100)^2 + 10.969879 (dbh/100) - 2.057563 sqrt(dbh/100) +  0.163340",
+        "region": 2,
+        "species": 34,
+        "volumetric": true
+    }
+},
+{
+    "pk": 544,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Macaranga peltata",
+        "string": "-1.615735 (dbh/100)^(3/2) + 8.983927 (dbh/100)^2 - 0.353513 (dbh/100) + 0.038322 sqrt(dbh/100) +  0.005054",
+        "region": 2,
+        "species": 12,
+        "volumetric": true
+    }
+},
+{
+    "pk": 545,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Schleichera trijuga",
+        "string": "6.221400 (dbh/100)^2 - 0.496470 (dbh/100) + 0.016042",
+        "region": 2,
+        "species": 17,
+        "volumetric": true
+    }
+},
+{
+    "pk": 546,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Schleichera oleosa",
+        "string": "6.221400 (dbh/100)^2 - 0.496470 (dbh/100) + 0.016042",
+        "region": 2,
+        "species": 18,
+        "volumetric": true
+    }
+},
+{
+    "pk": 547,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Tectona grandis",
+        "string": "3.913117 (dbh/100)^(3/2) + 3.926659 (dbh/100)^2 - 0.633702 (dbh/100) - 0.801530 sqrt(dbh/100) +  0.164747",
+        "region": 2,
+        "species": 22,
+        "volumetric": true
+    }
+},
+{
+    "pk": 548,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia belerica",
+        "string": "8.000000 (dbh/100)^2 + 10.980000",
+        "region": 2,
+        "species": 145,
+        "volumetric": true
+    }
+},
+{
+    "pk": 549,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia crenulata",
+        "string": "9.980639 (dbh/100)^2 - 1.288625 (dbh/100) + 0.041594",
+        "region": 2,
+        "species": 23,
+        "volumetric": true
+    }
+},
+{
+    "pk": 550,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia tomentosa",
+        "string": "9.980639 (dbh/100)^2 - 1.288625 (dbh/100) + 0.041594",
+        "region": 2,
+        "species": 24,
+        "volumetric": true
+    }
+},
+{
+    "pk": 551,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia paniculata",
+        "string": "9.478610 (dbh/100)^2 - 1.871320 (dbh/100) + 0.131000",
+        "region": 2,
+        "species": 25,
+        "volumetric": true
+    }
+},
+{
+    "pk": 552,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Wrightia tinctoria",
+        "string": "-4.285759 (dbh/100)^(3/2) + 9.706322 (dbh/100)^2 + 0.786468 (dbh/100) - 0.069186 sqrt(dbh/100) +  0.002529",
+        "region": 2,
+        "species": 48,
+        "volumetric": true
+    }
+},
+{
+    "pk": 553,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Xylia xylocarpa",
+        "string": "4.880609 (dbh/100)^2 + 0.072064 (dbh/100) + 0.000266",
+        "region": 2,
+        "species": 26,
+        "volumetric": true
+    }
+},
+{
+    "pk": 554,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Albizia amara",
+        "string": "-1.615735 (dbh/100)^(3/2) + 8.983927 (dbh/100)^2 - 0.353513 (dbh/100) + 0.038322 sqrt(dbh/100) +  0.005054",
+        "region": 1,
+        "species": 64,
+        "volumetric": true
+    }
+},
+{
+    "pk": 555,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Anogeissus latifolia",
+        "string": "11.771000 (dbh/100)^2 - 2.653000 (dbh/100) + 0.289000",
+        "region": 1,
+        "species": 4,
+        "volumetric": true
+    }
+},
+{
+    "pk": 556,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Boswellia serrata",
+        "string": "9.484710 (dbh/100)^2 - 1.327680 sqrt(dbh/100) + 0.364320",
+        "region": 1,
+        "species": 73,
+        "volumetric": true
+    }
+},
+{
+    "pk": 557,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Diospyros species",
+        "string": "-8.112066 (dbh/100)^(3/2) + 16.512114 (dbh/100)^2 + 1.543109 (dbh/100) - 0.134312 sqrt(dbh/100) +  0.004527",
+        "region": 1,
+        "species": 35,
+        "volumetric": true
+    }
+},
+{
+    "pk": 558,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Dolichandrone falcata",
+        "string": "8.760534 (dbh/100)^2 - 1.449236 (dbh/100) + 0.088074",
+        "region": 1,
+        "species": 89,
+        "volumetric": true
+    }
+},
+{
+    "pk": 559,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Grewia tiliaefolia",
+        "string": "e^2.249100 (dbh/100)^2.520600",
+        "region": 1,
+        "species": 100,
+        "volumetric": true
+    }
+},
+{
+    "pk": 560,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea coromandelica",
+        "string": "8.542648 (dbh/100)^2 - 1.153088 (dbh/100) + 0.057424",
+        "region": 1,
+        "species": 31,
+        "volumetric": true
+    }
+},
+{
+    "pk": 561,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea grandis",
+        "string": "8.542648 (dbh/100)^2 - 1.153088 (dbh/100) + 0.057424",
+        "region": 1,
+        "species": 33,
+        "volumetric": true
+    }
+},
+{
+    "pk": 562,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Odina wodier",
+        "string": "8.542648 (dbh/100)^2 - 1.153088 (dbh/100) + 0.057424",
+        "region": 1,
+        "species": 34,
+        "volumetric": true
+    }
+},
+{
+    "pk": 563,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Pterocarpus marsupium",
+        "string": "0.227519 (dbh/100)^(3/2) + 7.952513 (dbh/100)^2 - 0.916346 (dbh/100) - 0.013131 sqrt(dbh/100) +  0.026491",
+        "region": 1,
+        "species": 123,
+        "volumetric": true
+    }
+},
+{
+    "pk": 564,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Shorea robusta",
+        "string": "-14.339236 (dbh/100)^(3/2) + 20.901264 (dbh/100)^2 + 4.287513 (dbh/100) - 0.627104 sqrt(dbh/100) +  0.039976",
+        "region": 1,
+        "species": 138,
+        "volumetric": true
+    }
+},
+{
+    "pk": 565,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Tectona grandis",
+        "string": "6.731036 (dbh/100)^2 - 0.531006 (dbh/100) + 0.023613",
+        "region": 1,
+        "species": 22,
+        "volumetric": true
+    }
+},
+{
+    "pk": 566,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia crenulata",
+        "string": "8.778390 (dbh/100)^2 - 1.119940 (dbh/100) + 0.050610",
+        "region": 1,
+        "species": 23,
+        "volumetric": true
+    }
+},
+{
+    "pk": 567,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia tomentosa",
+        "string": "8.778390 (dbh/100)^2 - 1.119940 (dbh/100) + 0.050610",
+        "region": 1,
+        "species": 24,
+        "volumetric": true
+    }
+},
+{
+    "pk": 568,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Wrightia tinctoria",
+        "string": "4.149345 (dbh/100)^2 - 0.009510",
+        "region": 1,
+        "species": 48,
+        "volumetric": true
+    }
+}
+]

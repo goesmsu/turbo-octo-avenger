@@ -1,0 +1,73 @@
+X		Abies smithiana not found Wikipedia
+X		Acacia lenticularis not found Wikipedia
+X		Amoora wallichii not found Wikipedia
+X		Anogeisus latifolia not found Wikipedia
+X		Artocarpus integrifolia not found Wikipedia
+X		Bauhinia retusa not found Wikipedia
+X		Bridelia squamosa not found Wikipedia
+X		Buchanania latifolia not found Wikipedia
+X		Callicarpa arborea not found Wikipedia
+X		Castanopsis indica not found Wikipedia
+X		Castanopsis tribuloides not found Wikipedia
+X		Cleistanthus collinus not found Wikipedia
+X		Cullenia excelsa not found Wikipedia
+X		Cynometra polyandra not found Wikipedia
+X		Dalbergia paniculata not found Wikipedia
+X		Dillenia pentagyna not found Wikipedia
+X		Dysoxylum binectariferum not found Wikipedia
+X		Ehretia laevis not found Wikipedia
+x		Flacourtia ramontchi not found Wikipedia
+x		Gardenia gum not found Wikipedia
+x		Gardenia lucida not found Wikipedia
+x		Gardenia resinifera not found Wikipedia X
+x		Gardenia turgida not found Wikipedia X
+x		Garuga pinnata not found Wikipedia X
+x		Grewia tiliaefolia not found Wikipedia X
+x		Jonesia asoca not found Wikipedia X
+x		Lagerstroemia flosreginae not found Wikipedia X
+x		Lagerstroemia inicrocarpa not found Wikipedia X
+x		Lagerstroemia lanceolata not found Wikipedia X 
+x		Lagerstroemia parviflora not found Wikipedia X
+x		Lagerstroemia spaciosa not found Wikipedia X 
+x		Lannea coromandelica not found Wikipedia X
+x		Lannea grandis not found Wikipedia X
+x		Madhuca latifolia not found Wikipedia X
+x		Mallotus philippinensis not found Wikipedia X 
+x		Manilkara achras not found Wikipedia X 
+x		Miliusa tomentosum not found Wikipedia X
+x		Odina wodier not found Wikipedia X
+x		Olea dioica not found Wikipedia X
+x		Palaquim ellipticum not found Wikipedia X
+x		Pieris ovalifolia not found Wikipedia X
+x		Prosopis ceneraria not found Wikipedia X
+x		Prosopis guliflora not found Wikipedia X
+x		Quercus dilatata not found Wikipedia X
+x		Quercus floribunda not found Wikipedia X
+x		Quercus semecarpifolia not found Wikipedia X
+x		Saccopetalum tomentosum not found Wikipedia X
+x		Salmalia insigne not found Wikipedia X
+x		Schleichera trijuga not found Wikipedia X
+x		Stephegyne parviflora not found Wikipedia X
+x		Stereospermum chelonoides not found Wikipedia X 
+x		Stereospermum personaturn not found Wikipedia X
+x		Symplocos theaefolia not found Wikipedia X 
+x		Trewia nudiflora not found Wikipedia X
+x		Wrightia tomentosa not found Wikipedia X
+x		Zizyphus xylopyrus not found Wikipedia X
+x 	Dalbergia panicuiata not found Wikipedia
+x 	Eucalyptus globules not found Wikipedia
+x 	Memecylon angustifolium not found Wikipedia
+x 	Myrica nagi not found Wikipedia
+x 	Myrica sapida not found Wikipedia
+X   Protium caudatum not found Wikipedia
+x   Sterculia urens not found Wikipedia
+
+x 	Holoptelea integrifolia not found Wikipedia
+X    Memecylon angustifolium not found Wikipedia
+X    Miliusa tomentosum not found Wikipedia
+x    Myrica integrifolia not found Wikipedia
+X    Myrica nagi not found Wikipedia
+X    Myrica sapida not found Wikipedia
+X    Protium caudatum not found Wikipedia
+X    Sterculia urens not found Wikipedia
+X    Toona microcarpa not found Wikipedia

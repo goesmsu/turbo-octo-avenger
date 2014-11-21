@@ -1,0 +1,33 @@
+Equation          Default Eq.
+--------          -----------
+Name              Name
+Eq. Species       Eq. Species
+Eq. Region        Eq. Region
+Project
+Default Equation
+Eq. String        Eq. String
+Notes             Notes
+MinDBH            Min DBH
+MaxDBH            Max DBH
+
+
+
+
+
+Current Eqation Fields
+
+    name
+    string
+    owner
+    public
+    species
+    region
+    volumetric
+    default
+    less_than_ten   # less_or_equal
+    dbh_max
+    dbh_mix
+    category        #EquationCategory General/ Carbon Benefits
+    anatomy
+    latex
+    notes

@@ -1,0 +1,707 @@
+[
+    {
+        "pk": 173,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Tree",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 174,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Callopyllum",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 175,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Anisoptera",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 176,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Cotylelobium",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 177,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Dipterocarpus",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 178,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Dryobalanops",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 179,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Hopea",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 180,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Marquesia",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 181,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Monotes",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 182,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Neobalanocarpus",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 183,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Pakaraimaea",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 184,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Parashorea",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 185,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Pentacme",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 186,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Vateria",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 187,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Vateriopsis",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 188,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Vatica",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 284,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Shorea",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 303,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.68,
+            "genus": "Dipterocarpus",
+            "name": "cornutus"
+        }
+    },
+    {
+        "pk": 319,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.65,
+            "genus": "Dryobalanops",
+            "name": "lanceolata"
+        }
+    },
+    {
+        "pk": 327,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.31,
+            "genus": "Duabanga",
+            "name": "moluccana"
+        }
+    },
+    {
+        "pk": 329,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Duabanga",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 330,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.482,
+            "genus": "Durio",
+            "name": "zibethinus"
+        }
+    },
+    {
+        "pk": 331,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.81,
+            "genus": "Eusideroxylon",
+            "name": "zwageri"
+        }
+    },
+    {
+        "pk": 335,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Heritiera",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 336,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.59,
+            "genus": "Hopea",
+            "name": "bracteata"
+        }
+    },
+    {
+        "pk": 338,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Non",
+            "name": "dipterocarpaceae"
+        }
+    },
+    {
+        "pk": 344,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Quercus",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 345,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Castanopsis",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 346,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Engelbardtia",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 347,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.54,
+            "genus": "Shorea",
+            "name": "bracteolata"
+        }
+    },
+    {
+        "pk": 350,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.54,
+            "genus": "Shorea",
+            "name": "hopeifolia"
+        }
+    },
+    {
+        "pk": 352,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.47,
+            "genus": "Shorea",
+            "name": "leprosula"
+        }
+    },
+    {
+        "pk": 360,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.45,
+            "genus": "Shorea",
+            "name": "parvifolia"
+        }
+    },
+    {
+        "pk": 368,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.61,
+            "genus": "Shorea",
+            "name": "pauciflora"
+        }
+    },
+    {
+        "pk": 401,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.51,
+            "genus": "Shorea",
+            "name": "uliginosa"
+        }
+    },
+    {
+        "pk": 407,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Salvia",
+            "name": "uliginosa"
+        }
+    },
+    {
+        "pk": 409,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Scleria",
+            "name": "pauciflora"
+        }
+    },
+    {
+        "pk": 410,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Shorea",
+            "name": "johoriensis"
+        }
+    },
+    {
+        "pk": 428,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.72,
+            "genus": "Shorea",
+            "name": "sumatrana"
+        }
+    },
+    {
+        "pk": 432,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Toona",
+            "name": "sureni"
+        }
+    },
+    {
+        "pk": 433,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Vatica",
+            "name": "celebencis"
+        }
+    },
+    {
+        "pk": 439,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Bruguiera",
+            "name": "gymnorrhiza"
+        }
+    },
+    {
+        "pk": 440,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Bruguiera",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 446,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.85,
+            "genus": "Rhizophora",
+            "name": "apiculata"
+        }
+    },
+    {
+        "pk": 448,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.904,
+            "genus": "Rhizophora",
+            "name": "mucronata"
+        }
+    },
+    {
+        "pk": 449,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Rhizophora",
+            "name": "conjungata"
+        }
+    },
+    {
+        "pk": 451,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Rhizophora",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 458,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Dactylocladus",
+            "name": "stenostachys"
+        }
+    },
+    {
+        "pk": 461,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Dipterocarpaceae",
+            "name": "(non"
+        }
+    },
+    {
+        "pk": 462,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Gonystilus",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 464,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.53,
+            "genus": "Gonystylus",
+            "name": "bancanus"
+        }
+    },
+    {
+        "pk": 475,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Intsia",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 477,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Melanorrhoea",
+            "name": "wallichii"
+        }
+    },
+    {
+        "pk": 478,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Palaquium",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 481,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.496,
+            "genus": "Podocarpus",
+            "name": "neriifolius"
+        }
+    },
+    {
+        "pk": 493,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Syzygium",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 495,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Timonius",
+            "name": "nitens"
+        }
+    },
+    {
+        "pk": 506,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Acacia",
+            "name": "auriculiformis"
+        }
+    },
+    {
+        "pk": 510,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Acacia",
+            "name": "mangium"
+        }
+    },
+    {
+        "pk": 551,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.38,
+            "genus": "Agathis",
+            "name": "labillardieri"
+        }
+    },
+    {
+        "pk": 553,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Agathis",
+            "name": "loranthifolia"
+        }
+    },
+    {
+        "pk": 558,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Agathis",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 562,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.35,
+            "genus": "Alstonia",
+            "name": "scholaris"
+        }
+    },
+    {
+        "pk": 568,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Alstonia",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 572,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Altingia",
+            "name": "exelsa"
+        }
+    },
+    {
+        "pk": 580,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Bischoffia",
+            "name": "javanica"
+        }
+    },
+    {
+        "pk": 581,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Dalbergia",
+            "name": "latifolia"
+        }
+    },
+    {
+        "pk": 586,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Dalbergia",
+            "name": "sisoides"
+        }
+    },
+    {
+        "pk": 587,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Diospyrsos",
+            "name": "celebica"
+        }
+    },
+    {
+        "pk": 588,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Disoxylum",
+            "name": "molliscimim"
+        }
+    },
+    {
+        "pk": 589,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Eucalyptus",
+            "name": "deglupta"
+        }
+    },
+    {
+        "pk": 594,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Eucalyptus",
+            "name": "grandis"
+        }
+    },
+    {
+        "pk": 600,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Eucalyptus",
+            "name": "species"
+        }
+    },
+    {
+        "pk": 601,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Eucalyptus",
+            "name": "urophylla"
+        }
+    },
+    {
+        "pk": 603,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Gmelina",
+            "name": "arborea"
+        }
+    },
+    {
+        "pk": 608,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.83,
+            "genus": "Manilkara",
+            "name": "kauki"
+        }
+    },
+    {
+        "pk": 609,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.26,
+            "genus": "Paraserianthes",
+            "name": "falcataria"
+        }
+    },
+    {
+        "pk": 620,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Peronema",
+            "name": "canesnes"
+        }
+    },
+    {
+        "pk": 622,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Pinus",
+            "name": "merkusii"
+        }
+    },
+    {
+        "pk": 649,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Pometia",
+            "name": "acuminate"
+        }
+    },
+    {
+        "pk": 651,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.54,
+            "genus": "Pterocarpus",
+            "name": "indicus"
+        }
+    },
+    {
+        "pk": 652,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.38,
+            "genus": "Pterospermum",
+            "name": "javanicum"
+        }
+    },
+    {
+        "pk": 655,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.62,
+            "genus": "Schima",
+            "name": "wallichii"
+        }
+    },
+    {
+        "pk": 657,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "wood_density": 0.49,
+            "genus": "Swietenia",
+            "name": "macrophylla"
+        }
+    },
+    {
+        "pk": 665,
+        "model": "allometric.EquationSpecies",
+        "fields": {
+            "genus": "Tectona",
+            "name": "grandis"
+        }
+    }
+]

@@ -1,0 +1,180 @@
+[
+{
+    "pk": 151,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Acacia",
+        "name": "sundra",
+        "wood_density": 0.9328
+    }
+},
+{
+    "pk": 152,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Cedrela",
+        "name": "toona",
+        "wood_density": 0.4217
+    }
+},
+{
+    "pk": 153,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Cedrus",
+        "name": "deodara",
+        "wood_density": 0.4700
+    }
+},
+{
+    "pk": 154,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Eucalyptus",
+        "name": "globulus",
+        "wood_density": 0.7093
+    }
+},
+{
+    "pk": 155,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Eurya",
+        "name": "japonica",
+        "wood_density": 0.6200
+    }
+},
+{
+    "pk": 156,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Grewia",
+        "name": "species"
+    }
+},
+{
+    "pk": 157,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Holoptelea",
+        "name": "integrifolia",
+        "wood_density": 0.5155
+    }
+},
+{
+    "pk": 158,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Memecylon",
+        "name": "angustifolium"
+    }
+},
+{
+    "pk": 159,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Miliusa",
+        "name": "tomentosum"
+    }
+},
+{
+    "pk": 160,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Myrica",
+        "name": "esculenta"
+    }
+},
+{
+    "pk": 161,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Myrica",
+        "name": "integrifolia"
+    }
+},
+{
+    "pk": 162,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Myrica",
+        "name": "nagi"
+    }
+},
+{
+    "pk": 163,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Myrica",
+        "name": "sapida"
+    }
+},
+{
+    "pk": 164,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Phanera",
+        "name": "variegata",
+        "wood_density": 0.6530
+    }
+},
+{
+    "pk": 165,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Protium",
+        "name": "caudatum"
+    }
+},
+{
+    "pk": 166,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Rhododendron",
+        "name": "species"
+    }
+},
+{
+    "pk": 167,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Sterculia",
+        "name": "urens",
+        "wood_density": 0.5430
+    }
+},
+{
+    "pk": 168,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Terminalia",
+        "name": "species"
+    }
+},
+{
+    "pk": 169,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Toona",
+        "name": "ciliata",
+        "wood_density": 0.4217
+    }
+},
+{
+    "pk": 170,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Toona",
+        "name": "febrifuga",
+        "wood_density": 0.3816
+    }
+},
+{
+    "pk": 171,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Toona",
+        "name": "microcarpa"
+    }
+},
+]

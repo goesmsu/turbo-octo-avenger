@@ -1,0 +1,11 @@
+species	wd	std	n	
+Acacia sundra	0.9328	0.0800	4	
+Cedrela toona	0.4217	0.0734	12	
+Cedrus deodara	0.4700	0.0000	1	
+Eucalyptus globulus	0.7093	0.0946	14	
+Eurya japonica	0.6200	0.0000	1	
+Holoptelea integrifolia	0.5155	0.0155	2	
+Phanera variegata	0.6530	0.0470	2	
+Sterculia urens	0.5430	0.0000	1	
+Toona ciliata	0.4217	0.0734	12	
+Toona febrifuga	0.3816	0.0411	7	

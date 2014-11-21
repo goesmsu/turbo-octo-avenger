@@ -1,0 +1,1850 @@
+[
+{
+    "pk": 104,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Tectona grandis",
+        "string": "724.8313 (dbh/100)^1.8139",
+        "region": 7,
+        "species": 22,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 105,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Tectona grandis",
+        "string": "-5.7898 (dbh/100)^2 + 16.1859 (dbh/100) - 0.8153",
+        "region": 7,
+        "species": 22,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 106,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Tectona grandis",
+        "string": "0.1701 (dbh)^2 - 0.5602 (dbh) + 1.3209",
+        "region": 7,
+        "species": 22,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 107,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Tectona grandis",
+        "string": "0.0080 (dbh)^2 + 0.0186 (dbh) + 0.0245",
+        "region": 7,
+        "species": 22,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 108,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia crenulata",
+        "string": "-893.2875 (dbh/100)^3 + 1888.8940 (dbh/100)^2 -463.5333 (dbh/100) + 54.7484",
+        "region": 7,
+        "species": 23,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 109,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia crenulata",
+        "string": "20.0615 (dbh/100)^2 + 1.5684 (dbh/100) + 0.4141",
+        "region": 7,
+        "species": 23,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 110,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia crenulata",
+        "string": "0.1545 (dbh)^2 + 0.0612 (dbh)^ + 0.5004",
+        "region": 7,
+        "species": 23,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 111,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia crenulata",
+        "string": "0.0061 (dbh)^2 - 0.0027 (dbh)  + 0.0550",
+        "region": 7,
+        "species": 23,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 112,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia tomentosa",
+        "string": "-893.2875 (dbh/100)^3 + 1888.8940 (dbh/100)^2 -463.5333 (dbh/100) + 54.7485",
+        "region": 7,
+        "species": 24,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 113,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia tomentosa",
+        "string": "20.0615 (dbh/100)^2 + 1.5684 (dbh/100) + 0.4142",
+        "region": 7,
+        "species": 24,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 114,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia tomentosa",
+        "string": "0.1545 (dbh)^2 + 0.0612 (dbh)^ + 0.5005",
+        "region": 7,
+        "species": 24,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 115,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Terminalia tomentosa",
+        "string": "0.0061 (dbh)^2 - 0.0027 (dbh)  + 0.0551",
+        "region": 7,
+        "species": 24,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 116,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Chloroxylon swietenia",
+        "string": "884.6576 (dbh/100)^2 + 395.8155 (dbh/100) - 38.2331",
+        "region": 7,
+        "species": 27,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 117,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Chloroxylon swietenia",
+        "string": "13.0100 (dbh/100) - 0.3999",
+        "region": 7,
+        "species": 27,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 118,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Chloroxylon swietenia",
+        "string": "0.1990 (dbh)^2 - 0.3570 (dbh) + 0.5943",
+        "region": 7,
+        "species": 27,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 119,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Chloroxylon swietenia",
+        "string": "0.0118 (dbh)^2 - 0.0027 (dbh) + 0.0401",
+        "region": 7,
+        "species": 27,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 120,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Anogeissus pendula ",
+        "string": "1299.4268 (dbh/100)^3 -1653.6151 (dbh/100)^2 + 1320.6808 (dbh/100) - 110.1954",
+        "region": 7,
+        "species": 28,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 121,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Anogeissus pendula ",
+        "string": "-3.8043 (dbh/100)^2 + 10.7862 (dbh/100) - 0.3515",
+        "region": 7,
+        "species": 28,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 122,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Anogeissus pendula ",
+        "string": "-0.0650 (dbh)^2 + 2.1152 (dbh) - 1.1784",
+        "region": 7,
+        "species": 28,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 123,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Anogeissus pendula ",
+        "string": "-0.0079 (dbh)^ + 0.1908 (dbh)- 0.0179",
+        "region": 7,
+        "species": 28,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 124,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea monosperma",
+        "string": "28,7.6540 (dbh/100)^2  + 67.0071 (dbh/100) - 1.9463",
+        "region": 7,
+        "species": 29,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 125,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea monosperma",
+        "string": "4.6446 (dbh/100)^2 + 3.8577 (dbh/100) + 0.2056",
+        "region": 7,
+        "species": 29,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 126,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea monosperma",
+        "string": "0.8883 (dbh) - 0.0294",
+        "region": 7,
+        "species": 29,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 127,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea monosperma",
+        "string": " 0.0040 (dbh)^ + 0.0373 (dbh)^  + 0.1501",
+        "region": 7,
+        "species": 29,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 128,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea frondosa",
+        "string": "287.6540 (dbh/100)^2  + 67.0071 (dbh/100) - 1.9464",
+        "region": 7,
+        "species": 30,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 129,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea frondosa",
+        "string": "4.6446 (dbh/100)^2 + 3.8577 (dbh/100) + 0.2057",
+        "region": 7,
+        "species": 30,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 130,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea frondosa",
+        "string": "0.8883 (dbh) - 0.0295",
+        "region": 7,
+        "species": 30,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 131,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Butea frondosa",
+        "string": " 0.0040 (dbh)^ + 0.0373 (dbh)^  + 0.1502",
+        "region": 7,
+        "species": 30,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 132,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea coromandelica",
+        "string": "84.0382 (dbh/100)^2  + 262.3237 (dbh/100) - 20.4447",
+        "region": 7,
+        "species": 31,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 133,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea coromandelica",
+        "string": "1.611 (dbh/100)^2 + 18.47 (dbh/100) - 0.894",
+        "region": 7,
+        "species": 31,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 134,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea coromandelica",
+        "string": "0.011 (dbh)^3 - 0.068 (dbh)^2 + 0.351 (dbh) + 0.296",
+        "region": 7,
+        "species": 31,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 135,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea coromandelica",
+        "string": "0.007 (dbh)^2 + 0.006 (dbh) + 0.192",
+        "region": 7,
+        "species": 31,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 140,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea grandis",
+        "string": "84.0382 (dbh/100)^2  + 262.3237 (dbh/100) - 20.4449",
+        "region": 7,
+        "species": 33,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 141,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea grandis",
+        "string": "1.611 (dbh/100)^2 + 18.47 (dbh/100) - 0.896",
+        "region": 7,
+        "species": 33,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 142,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea grandis",
+        "string": "0.011 (dbh)^3 - 0.068 (dbh)^2 + 0.351 (dbh) + 0.298",
+        "region": 7,
+        "species": 33,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 143,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lannea grandis",
+        "string": "0.007 (dbh)^2 + 0.006 (dbh) + 0.194",
+        "region": 7,
+        "species": 33,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 144,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Odina wodier",
+        "string": "84.0382 (dbh/100)^2  + 262.3237 (dbh/100) - 20.4450",
+        "region": 7,
+        "species": 34,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 145,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Odina wodier",
+        "string": "1.611 (dbh/100)^2 + 18.47 (dbh/100) - 0.897",
+        "region": 7,
+        "species": 34,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 146,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Odina wodier",
+        "string": "0.011 (dbh)^3 - 0.068 (dbh)^2 + 0.351 (dbh) + 0.299",
+        "region": 7,
+        "species": 34,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 147,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Odina wodier",
+        "string": "0.007 (dbh)^2 + 0.006 (dbh) + 0.195",
+        "region": 7,
+        "species": 34,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 148,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Diospyros species",
+        "string": "479.3323 (dbh/100)^2  + 25.4894 (dbh/100) + 8.4235",
+        "region": 7,
+        "species": 35,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 149,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Diospyros species",
+        "string": "6.7291 (dbh/100)^2 + 6.0102 (dbh/100) + 0.2414",
+        "region": 7,
+        "species": 35,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 150,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Diospyros species",
+        "string": "0.0307 (dbh)^2 + 0.7393 (dbh) - 0.2260",
+        "region": 7,
+        "species": 35,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 151,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Diospyros species",
+        "string": "0.0033 (dbh)^2 + 0.0669 (dbh) - 0.0027",
+        "region": 7,
+        "species": 35,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 152,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia parviflora",
+        "string": "243.9685 (dbh/100)^2  + 163.6429 (dbh/100) - 12.3582",
+        "region": 7,
+        "species": 36,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 153,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia parviflora",
+        "string": "-35.4845 (dbh/100)^3 + 44.3745 (dbh/100)^2 -1.2717 (dbh/100) + 0.2303",
+        "region": 7,
+        "species": 36,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 154,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia parviflora",
+        "string": "0.0326 (dbh)^2 + 0.4611 (dbh) + 0.3191",
+        "region": 7,
+        "species": 36,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 155,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Lagerstroemia parviflora",
+        "string": "0.0074 (dbh)^2 - 0.0222 (dbh) + 0.0456",
+        "region": 7,
+        "species": 36,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 156,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Buchanania latifolia",
+        "string": "225.0254 (dbh/100)^2  + 81.1387 (dbh/100) - 3.3972",
+        "region": 7,
+        "species": 37,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 157,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Buchanania latifolia",
+        "string": "25.4746 (dbh/100)^2 - 0.6373 (dbh/100) + 0.6366",
+        "region": 7,
+        "species": 37,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 158,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Buchanania latifolia",
+        "string": "0.0888 (dbh)^2 + 0.0680 (dbh) + 0.5616",
+        "region": 7,
+        "species": 37,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 159,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Buchanania latifolia",
+        "string": "0.0108 (dbh)^2 - 0.0187 (dbh) + 0.1278",
+        "region": 7,
+        "species": 37,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 160,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Buchanania lanzan",
+        "string": "225.0254 (dbh/100)^2  + 81.1387 (dbh/100) - 3.3973",
+        "region": 7,
+        "species": 38,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 161,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Buchanania lanzan",
+        "string": "25.4746 (dbh/100)^2 - 0.6373 (dbh/100) + 0.6367",
+        "region": 7,
+        "species": 38,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 162,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Buchanania lanzan",
+        "string": "0.0888 (dbh)^2 + 0.0680 (dbh) + 0.5617",
+        "region": 7,
+        "species": 38,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 163,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Buchanania lanzan",
+        "string": "0.0108 (dbh)^2 - 0.0187 (dbh) + 0.1279",
+        "region": 7,
+        "species": 38,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 136,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Madhuca longifolia",
+        "string": "199.2222 (dbh/100)^2 + 263.1915 (dbh/100) - 9.9139",
+        "region": 7,
+        "species": 39,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 137,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Madhuca longifolia",
+        "string": "6.1590 (dbh/100) - 0.3077",
+        "region": 7,
+        "species": 39,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 138,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Madhuca longifolia",
+        "string": "0.1405 (dbh)^2 - 0.0649 (dbh) + 0.7852",
+        "region": 7,
+        "species": 39,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 139,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Madhuca longifolia",
+        "string": "0.0015 (dbh)^2 + 0.0042 (dbh) + 0.0175",
+        "region": 7,
+        "species": 39,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 164,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Madhuca latifolia",
+        "string": "199.2222 (dbh/100)^2 + 263.1915 (dbh/100) - 9.9139",
+        "region": 7,
+        "species": 39,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 165,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Madhuca latifolia",
+        "string": "6.1590 (dbh/100) - 0.3077",
+        "region": 7,
+        "species": 39,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 166,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Madhuca latifolia",
+        "string": "0.1405 (dbh)^2 - 0.0649 (dbh) + 0.7852",
+        "region": 7,
+        "species": 39,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 167,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Madhuca latifolia",
+        "string": "0.0015 (dbh)^2 + 0.0042 (dbh) + 0.0175",
+        "region": 7,
+        "species": 39,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 168,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Madhuca indica",
+        "string": "199.2222 (dbh/100)^2 + 263.1915 (dbh/100) - 9.9140",
+        "region": 7,
+        "species": 40,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 169,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Madhuca indica",
+        "string": "6.1590 (dbh/100) - 0.3078",
+        "region": 7,
+        "species": 40,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 170,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Madhuca indica",
+        "string": "0.1405 (dbh)^2 - 0.0649 (dbh) + 0.7853",
+        "region": 7,
+        "species": 40,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 171,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Madhuca indica",
+        "string": "0.0015 (dbh)^2 + 0.0042 (dbh) + 0.0176",
+        "region": 7,
+        "species": 40,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 172,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bassia latifolia",
+        "string": "199.2222 (dbh/100)^2 + 263.1915 (dbh/100) - 9.9141",
+        "region": 7,
+        "species": 41,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 173,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bassia latifolia",
+        "string": "6.1590 (dbh/100) - 0.3079",
+        "region": 7,
+        "species": 41,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 174,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bassia latifolia",
+        "string": "0.1405 (dbh)^2 - 0.0649 (dbh) + 0.7854",
+        "region": 7,
+        "species": 41,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 175,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bassia latifolia",
+        "string": "0.0015 (dbh)^2 + 0.0042 (dbh) + 0.0177",
+        "region": 7,
+        "species": 41,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 176,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acacia catechu",
+        "string": "412.9191 (dbh/100)^2  - 2.7602 (dbh/100) + 11.2512",
+        "region": 7,
+        "species": 42,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 177,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acacia catechu",
+        "string": "7.0246 (dbh/100)^2 - 1.8951 (dbh/100) + 0.5892",
+        "region": 7,
+        "species": 42,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 178,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acacia catechu",
+        "string": "0.1995 (dbh)^2 - 0.3849 (dbh) + 1.6476",
+        "region": 7,
+        "species": 42,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 179,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Acacia catechu",
+        "string": "-0.0007 (dbh)^2 + 0.0562 (dbh) + 0.0312",
+        "region": 7,
+        "species": 42,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 180,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia resinifera",
+        "string": "167.8008 (dbh/100)^2  + 212.0485 (dbh/100) - 10.6145",
+        "region": 7,
+        "species": 43,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 181,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia resinifera",
+        "string": "3.9604 (dbh/100)^2 + 2.5419 (dbh/100) + 0.4212",
+        "region": 7,
+        "species": 43,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 182,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia resinifera",
+        "string": "0.1779 (dbh)^2 - 0.5745 (dbh) + 1.6701",
+        "region": 7,
+        "species": 43,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 183,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia resinifera",
+        "string": "0.0119 (dbh)^2 - 0.0425 (dbh) + 0.1287",
+        "region": 7,
+        "species": 43,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 184,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia turgida",
+        "string": "167.8008 (dbh/100)^2  + 212.0485 (dbh/100) - 10.6146",
+        "region": 7,
+        "species": 44,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 185,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia turgida",
+        "string": "3.9604 (dbh/100)^2 + 2.5419 (dbh/100) + 0.4213",
+        "region": 7,
+        "species": 44,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 186,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia turgida",
+        "string": "0.1779 (dbh)^2 - 0.5745 (dbh) + 1.6702",
+        "region": 7,
+        "species": 44,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 187,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia turgida",
+        "string": "0.0119 (dbh)^2 - 0.0425 (dbh) + 0.1288",
+        "region": 7,
+        "species": 44,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 188,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia lucida",
+        "string": "167.8008 (dbh/100)^2  + 212.0485 (dbh/100) - 10.6147",
+        "region": 7,
+        "species": 45,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 189,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia Lucida",
+        "string": "3.9604 (dbh/100)^2 + 2.5419 (dbh/100) + 0.4214",
+        "region": 7,
+        "species": 45,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 190,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia Lucida",
+        "string": "0.1779 (dbh)^2 - 0.5745 (dbh) + 1.6703",
+        "region": 7,
+        "species": 45,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 191,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia Lucida",
+        "string": "0.0119 (dbh)^2 - 0.0425 (dbh) + 0.1289",
+        "region": 7,
+        "species": 45,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 192,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia latifolia",
+        "string": "167.8008 (dbh/100)^2  + 212.0485 (dbh/100) - 10.6148",
+        "region": 7,
+        "species": 46,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 193,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia latifolia",
+        "string": "3.9604 (dbh/100)^2 + 2.5419 (dbh/100) + 0.4215",
+        "region": 7,
+        "species": 46,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 194,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia latifolia",
+        "string": "0.1779 (dbh)^2 - 0.5745 (dbh) + 1.6704",
+        "region": 7,
+        "species": 46,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 195,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia latifolia",
+        "string": "0.0119 (dbh)^2 - 0.0425 (dbh) + 0.1290",
+        "region": 7,
+        "species": 46,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 196,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia gum",
+        "string": "167.8008 (dbh/100)^2  + 212.0485 (dbh/100) - 10.6149",
+        "region": 7,
+        "species": 47,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 197,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia gum",
+        "string": "3.9604 (dbh/100)^2 + 2.5419 (dbh/100) + 0.4216",
+        "region": 7,
+        "species": 47,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 198,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia gum",
+        "string": "0.1779 (dbh)^2 - 0.5745 (dbh) + 1.6705",
+        "region": 7,
+        "species": 47,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 199,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Gardenia gum",
+        "string": "0.0119 (dbh)^2 - 0.0425 (dbh) + 0.1291",
+        "region": 7,
+        "species": 47,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 200,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Wrightia tinctoria",
+        "string": "703.4801 (dbh/100)^2  - 128.9582 (dbh/100) + 13.6679",
+        "region": 7,
+        "species": 48,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 201,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Wrightia tinctoria",
+        "string": "-4.0215 (dbh/100)^2 + 4.6618 (dbh/100) - 0.2465",
+        "region": 7,
+        "species": 48,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 202,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Wrightia tinctoria",
+        "string": "0.0232 (dbh)^2 + 0.5686 (dbh) - 0.2292",
+        "region": 7,
+        "species": 48,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 203,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Wrightia tinctoria",
+        "string": "0.0006 (dbh)^2 + 0.0111 (dbh) + 0.0151",
+        "region": 7,
+        "species": 48,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 204,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Cleistanthus collinus",
+        "string": "267.9289 (dbh/100)^2  + 203.8644 (dbh/100) - 13.2061",
+        "region": 7,
+        "species": 49,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 205,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Cleistanthus collinus",
+        "string": "4.1925 (dbh/100)^2 + 0.6047 (dbh/100) + 0.1422",
+        "region": 7,
+        "species": 49,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 206,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Cleistanthus collinus",
+        "string": "0.0895 (dbh)^2 + 0.3236 (dbh) + 0.5934",
+        "region": 7,
+        "species": 49,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 207,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Cleistanthus collinus",
+        "string": "0.0006 (dbh)^2 + 0.0129 (dbh) - 0.0064",
+        "region": 7,
+        "species": 49,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 208,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium cumini",
+        "string": "252.1925 (dbh/100)^2  + 138.7321 (dbh/100) - 10.9596",
+        "region": 7,
+        "species": 19,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 209,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium cumini",
+        "string": "10.9963 (dbh/100)^2 - 1.6709 (dbh/100) + 0.6265",
+        "region": 7,
+        "species": 19,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 210,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium cumini",
+        "string": "0.5933 (dbh) - 0.0378",
+        "region": 7,
+        "species": 19,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 211,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium cumini",
+        "string": "0.0095 (dbh)^2 - 0.0349 (dbh) + 0.0480",
+        "region": 7,
+        "species": 19,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 212,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium jambolanum",
+        "string": "252.1925 (dbh/100)^2  + 138.7321 (dbh/100) - 10.9597",
+        "region": 7,
+        "species": 20,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 213,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium jambolanum",
+        "string": "10.9963 (dbh/100)^2 - 1.6709 (dbh/100) + 0.6266",
+        "region": 7,
+        "species": 20,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 214,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium jambolanum",
+        "string": "0.5933 (dbh) - 0.0379",
+        "region": 7,
+        "species": 20,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 215,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Syzygium jambolanum",
+        "string": "0.0095 (dbh)^2 - 0.0349 (dbh) + 0.0481",
+        "region": 7,
+        "species": 20,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 216,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Eugenia jambolana",
+        "string": "252.1925 (dbh/100)^2  + 138.7321 (dbh/100) - 10.9598",
+        "region": 7,
+        "species": 21,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 217,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Eugenia jambolana",
+        "string": "10.9963 (dbh/100)^2 - 1.6709 (dbh/100) + 0.6267",
+        "region": 7,
+        "species": 21,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 218,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Eugenia jambolana",
+        "string": "0.5933 (dbh) - 0.0380",
+        "region": 7,
+        "species": 21,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 219,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Eugenia jambolana",
+        "string": "0.0095 (dbh)^2 - 0.0349 (dbh) + 0.0482",
+        "region": 7,
+        "species": 21,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 220,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Zizyphus xylopyrus",
+        "string": "625.9479 (dbh/100)^2 - 132.8810 (dbh/100) + 16.6826",
+        "region": 7,
+        "species": 50,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 221,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Zizyphus xylopyrus",
+        "string": "1.4667 (dbh/100)^2 + 0.4772 (dbh/100) + 0.0650",
+        "region": 7,
+        "species": 50,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 222,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Zizyphus xylopyrus",
+        "string": "0.0564 (dbh)^2 + 0.5274 (dbh) - 0.3069",
+        "region": 7,
+        "species": 50,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 223,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Zizyphus xylopyrus",
+        "string": "-0.0005 (dbh)^2 + 0.0207 (dbh) + 0.0120",
+        "region": 7,
+        "species": 50,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 224,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Aegle marmelos",
+        "string": "604.8017 (dbh/100)^2  + 0.0041 (dbh/100) + 1.7251",
+        "region": 7,
+        "species": 51,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 225,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Aegle marmelos",
+        "string": "43.2013 (dbh/100)^2 - 11.9883 (dbh/100) + 1.0009",
+        "region": 7,
+        "species": 51,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 226,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Aegle marmelos",
+        "string": "0.0940 (dbh)^2 + 0.0813 (dbh) + 0.1856",
+        "region": 7,
+        "species": 51,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 227,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Aegle marmelos",
+        "string": "0.0081 (dbh)^2 - 0.0021 (dbh) + 0.0102",
+        "region": 7,
+        "species": 51,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 228,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bauhinia retusa",
+        "string": "57.2611 (dbh/100)^2 + 205.3085 (dbh/100) - 15.5737",
+        "region": 7,
+        "species": 52,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 229,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bauhinia retusa",
+        "string": "1.6214 (ln(dbh/100)) + 3.9181",
+        "region": 7,
+        "species": 52,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 230,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bauhinia retusa",
+        "string": "0.0508 (dbh)^2 + 0.3060 (dbh) + 0.2747",
+        "region": 7,
+        "species": 52,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 231,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bauhinia retusa",
+        "string": "0.0083 (dbh)^2 - 0.0012 (dbh) + 0.0113",
+        "region": 7,
+        "species": 52,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 232,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bauhinia Variegata",
+        "string": "57.2611 (dbh/100)^2 + 205.3085 (dbh/100) - 15.5738",
+        "region": 7,
+        "species": 53,
+        "less_than_ten": false,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 233,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bauhinia Variegata",
+        "string": "1.6214 (ln(dbh/100)) + 3.9182",
+        "region": 7,
+        "species": 53,
+        "less_than_ten": false,
+        "anatomy": "FL"
+    }
+},
+{
+    "pk": 234,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bauhinia Variegata",
+        "string": "0.0508 (dbh)^2 + 0.3060 (dbh) + 0.2748",
+        "region": 7,
+        "species": 53,
+        "less_than_ten": true,
+        "anatomy": "SW"
+    }
+},
+{
+    "pk": 235,
+    "model": "allometric.Equation",
+    "fields": {
+        "owner": 1,
+        "public": true,
+        "name": "Bauhinia Variegata",
+        "string": "0.0083 (dbh)^2 - 0.0012 (dbh) + 0.0114",
+        "region": 7,
+        "species": 53,
+        "less_than_ten": true,
+        "anatomy": "FL"
+    }
+}
+]

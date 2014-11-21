@@ -1,0 +1,418 @@
+[
+{
+    "pk": 42,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Acacia",
+        "name": "catechu"
+    }
+},
+{
+    "pk": 1,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "mearnsii",
+        "genus": "Acacia"
+    }
+},
+{
+    "pk": 2,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "melanoxylon",
+        "genus": "Acacia"
+    }
+},
+{
+    "pk": 3,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "fraxinifolius",
+        "genus": "Acrocarpus"
+    }
+},
+{
+    "pk": 51,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Aegle",
+        "name": "marmelos"
+    }
+},
+{
+    "pk": 4,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "latifolia",
+        "genus": "Anogeissus"
+    }
+},
+{
+    "pk": 28,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "pendula",
+        "genus": "Anogeissus"
+    }
+},
+{
+    "pk": 5,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "lindleyana",
+        "genus": "Aporosa"
+    }
+},
+{
+    "pk": 6,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Artocarpus",
+        "name": "heterophyllus"
+    }
+},
+{
+    "pk": 7,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Artocarpus",
+        "name": "integrifolia"
+    }
+},
+{
+    "pk": 52,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Bauhinia",
+        "name": "retusa"
+    }
+},
+{
+    "pk": 53,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Bauhinia",
+        "name": "Variegata"
+    }
+},
+{
+    "pk": 41,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Bassia",
+        "name": "latifolia"
+    }
+},
+{
+    "pk": 38,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Buchanania",
+        "name": "lanzan"
+    }
+},
+{
+    "pk": 37,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Buchanania",
+        "name": "latifolia"
+    }
+},
+{
+    "pk": 30,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "frondosa",
+        "genus": "Butea"
+    }
+},
+{
+    "pk": 29,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "monosperma",
+        "genus": "Butea"
+    }
+},
+{
+    "pk": 8,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "excelsa",
+        "genus": "Cullenia"
+    }
+},
+{
+    "pk": 27,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Chloroxylon",
+        "name": "swietenia"
+    }
+},
+{
+    "pk": 49,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Cleistanthus",
+        "name": "collinus"
+    }
+},
+{
+    "pk": 35,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Diospyros",
+        "name": "species"
+    }
+},
+{
+    "pk": 47,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Gardenia",
+        "name": "gum"
+    }
+},
+{
+    "pk": 46,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Gardenia",
+        "name": "latifolia"
+    }
+},
+{
+    "pk": 45,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Gardenia",
+        "name": "Lucida"
+    }
+},
+{
+    "pk": 43,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Gardenia",
+        "name": "resinifera"
+    }
+},
+{
+    "pk": 44,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Gardenia",
+        "name": "turgida"
+    }
+},
+{
+    "pk": 9,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Holarrhena",
+        "name": "antidysenterica"
+    }
+},
+{
+    "pk": 11,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Lagerstroemia",
+        "name": "microcarpa"
+    }
+},
+{
+    "pk": 10,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+		"genus": "Lagerstroemia",
+        "name": "lanceolata"
+    }
+},
+{
+    "pk": 36,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Lagerstroemia",
+        "name": "parviflora"
+    }
+},
+{
+    "pk": 31,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Lannea",
+        "name": "coromandelica"
+    }
+},
+{
+    "pk": 33,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Lannea",
+        "name": "grandis"
+    }
+},
+{
+    "pk": 34,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Odina",
+        "name": "wodier"
+    }
+},
+{
+    "pk": 39,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Madhuca",
+        "name": "latifolia"
+    }
+},
+{
+    "pk": 40,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Madhuca",
+        "name": "indica"
+    }
+},
+{
+    "pk": 12,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "peltata",
+        "genus": "Macaranga"
+    }
+},
+{
+    "pk": 13,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "malabarica",
+        "genus": "Myristica"
+    }
+},
+{
+    "pk": 14,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "dioica",
+        "genus": "Olea"
+    }
+},
+{
+    "pk": 15,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "ellipticum",
+        "genus": "Palaquium"
+    }
+},
+{
+    "pk": 16,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "patula",
+        "genus": "Pinus"
+    }
+},
+{
+    "pk": 17,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "trijuga",
+        "genus": "Schleichera"
+    }
+},
+{
+    "pk": 18,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "oleosa",
+        "genus": "Schleichera"
+    }
+},
+{
+    "pk": 19,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "cumini",
+        "genus": "Syzygium"
+    }
+},
+{
+    "pk": 20,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "jambolanum",
+        "genus": "Syzygium"
+    }
+},
+{
+    "pk": 21,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "jambolana",
+        "genus": "Eugenia"
+    }
+},
+{
+    "pk": 22,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "grandis",
+        "genus": "Tectona"
+    }
+},
+{
+    "pk": 23,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "crenulata",
+        "genus": "Terminalia"
+    }
+},
+{
+    "pk": 24,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "tomentosa",
+        "genus": "Terminalia"
+    }
+},
+{
+    "pk": 25,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "paniculata",
+        "genus": "Terminalia"
+    }
+},
+{
+    "pk": 48,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Wrightia",
+        "name": "tinctoria"
+    }
+},
+{
+    "pk": 26,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "name": "Xylocarpa",
+        "genus": "Xylia"
+    }
+},
+{
+    "pk": 50,
+    "model": "allometric.EquationSpecies",
+    "fields": {
+        "genus": "Zizyphus",
+        "name": "xylopyrus"
+    }
+}
+]
